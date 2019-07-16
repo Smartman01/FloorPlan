@@ -585,3 +585,1123 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.16-20.59.33:927][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2019.07.16-20.59.33:927][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
 [2019.07.16-20.59.33:929][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.16-21.00.26:593][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.16-21.00.59:110][484]LogSlate: Window 'Choose Location for importing the Datasmith content' being destroyed
+[2019.07.16-21.00.59:407][484]LogFactory: FactoryCreateFile: Material with DatasmithImportFactory (0 0 ../../../../../../Users/carla/Downloads/Revit_HermanMiller_Typicals_Public_Office_Landscape/Clubhouse_005-Option_A.udatasmith)
+[2019.07.16-21.01.31:531][484]LogSlate: Window 'Datasmith Import Options' being destroyed
+[2019.07.16-21.01.31:602][484]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.16-21.01.31:793][484]LogLinker: Warning: Can't find file '/Game/Furniture/Clubhouse_005-Option_A/Clubhouse_005-Option_A'
+[2019.07.16-21.01.31:795][484]LogUObjectGlobals: Warning: Failed to find object 'Object None./Game/Furniture/Clubhouse_005-Option_A/Clubhouse_005-Option_A'
+[2019.07.16-21.01.35:358][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasGroup-Based_FC300_StandingScreen_Lam_68H_48W_Tackable_Fabric_Infill...
+[2019.07.16-21.01.35:436][484]LogStaticMesh: Built static mesh [0.08s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroup-Based_FC300_StandingScreen_Lam_68H_48W_Tackable_Fabric_Infill.Furniture_Systems_HermanMiller_CanvasGroup-Based_FC300_StandingScreen_Lam_68H_48W_Tackable_Fabric_Infill
+[2019.07.16-21.01.35:509][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasGroup-Based_FC300_StandingScreen_Lam_68H_48W_Marker_Board_Infill...
+[2019.07.16-21.01.35:510][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroup-Based_FC300_StandingScreen_Lam_68H_48W_Marker_Board_Infill.Furniture_Systems_HermanMiller_CanvasGroup-Based_FC300_StandingScreen_Lam_68H_48W_Marker_Board_Infill
+[2019.07.16-21.01.35:582][484]LogStaticMesh: Building static mesh Furniture_HermanMiller_Seating_AE11_Aeron_WorkChair_Tlt_Lim_Ang_Adj_Arms_NonuphstPds_Size_B...
+[2019.07.16-21.01.35:891][484]LogStaticMesh: Built static mesh [0.31s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_Seating_AE11_Aeron_WorkChair_Tlt_Lim_Ang_Adj_Arms_NonuphstPds_Size_B.Furniture_HermanMiller_Seating_AE11_Aeron_WorkChair_Tlt_Lim_Ang_Adj_Arms_NonuphstPds_Size_B
+[2019.07.16-21.01.36:001][484]LogStaticMesh: Building static mesh Furniture_HermanMiller_Collection_Eames_AluminumGroup_LoungeChairSwivel_Arms_Swivel_Base...
+[2019.07.16-21.01.36:114][484]LogStaticMesh: Built static mesh [0.13s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_Collection_Eames_AluminumGroup_LoungeChairSwivel_Arms_Swivel_Base.Furniture_HermanMiller_Collection_Eames_AluminumGroup_LoungeChairSwivel_Arms_Swivel_Base
+[2019.07.16-21.01.36:245][484]LogStaticMesh: Building static mesh Furniture_HermanMiller_Collection_Eames_AluminumGroup_MgmtChair_Casters_Manual_Hgt_Adj...
+[2019.07.16-21.01.36:367][484]LogStaticMesh: Built static mesh [0.12s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_Collection_Eames_AluminumGroup_MgmtChair_Casters_Manual_Hgt_Adj.Furniture_HermanMiller_Collection_Eames_AluminumGroup_MgmtChair_Casters_Manual_Hgt_Adj
+[2019.07.16-21.01.36:450][484]LogStaticMesh: Building static mesh Furniture_HermanMiller_Collection_EamesTables_OvalTableSegmentedBase_Lam_Top_Thermo_Edge_28_5H_42D_84W...
+[2019.07.16-21.01.36:484][484]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_Collection_EamesTables_OvalTableSegmentedBase_Lam_Top_Thermo_Edge_28_5H_42D_84W.Furniture_HermanMiller_Collection_EamesTables_OvalTableSegmentedBase_Lam_Top_Thermo_Edge_28_5H_42D_84W
+[2019.07.16-21.01.36:507][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVP5_DesktopDivider_58W_13H_Fabric_Freestanding...
+[2019.07.16-21.01.36:510][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP5_DesktopDivider_58W_13H_Fabric_Freestanding.Furniture_Systems_HermanMiller_Public_BVP5_DesktopDivider_58W_13H_Fabric_Freestanding
+[2019.07.16-21.01.36:533][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasGroupBased_FC310_StandingScreenSupport_In-Line_Screen_Foot...
+[2019.07.16-21.01.36:533][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroupBased_FC310_StandingScreenSupport_In-Line_Screen_Foot.Furniture_Systems_HermanMiller_CanvasGroupBased_FC310_StandingScreenSupport_In-Line_Screen_Foot
+[2019.07.16-21.01.36:697][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasGroupBased_FC311_StandingScreenConnectorKit_End-of-Run...
+[2019.07.16-21.01.36:698][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroupBased_FC311_StandingScreenConnectorKit_End-of-Run.Furniture_Systems_HermanMiller_CanvasGroupBased_FC311_StandingScreenConnectorKit_End-of-Run
+[2019.07.16-21.01.36:831][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasGroupBased_FC311_StandingScreenConnectorKit_180_Degree_Connection...
+[2019.07.16-21.01.36:832][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroupBased_FC311_StandingScreenConnectorKit_180_Degree_Connection.Furniture_Systems_HermanMiller_CanvasGroupBased_FC311_StandingScreenConnectorKit_180_Degree_Connection
+[2019.07.16-21.01.36:920][484]LogStaticMesh: Building static mesh Furniture_HermanMiller_TheIntersectPortfolio_CP820_MobileEasel_Magnetic_Lam_Shelf_30W...
+[2019.07.16-21.01.36:983][484]LogStaticMesh: Built static mesh [0.14s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_TheIntersectPortfolio_CP820_MobileEasel_Magnetic_Lam_Shelf_30W.Furniture_HermanMiller_TheIntersectPortfolio_CP820_MobileEasel_Magnetic_Lam_Shelf_30W
+[2019.07.16-21.01.37:014][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Desk_Top-to-Desk_Ganging_Plate...
+[2019.07.16-21.01.37:014][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Desk_Top-to-Desk_Ganging_Plate.Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Desk_Top-to-Desk_Ganging_Plate
+[2019.07.16-21.01.37:169][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate...
+[2019.07.16-21.01.37:171][484]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate.Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate
+[2019.07.16-21.01.37:277][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit...
+[2019.07.16-21.01.37:278][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit.Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit
+[2019.07.16-21.01.37:285][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Right_No_Doors...
+[2019.07.16-21.01.37:356][484]LogStaticMesh: Built static mesh [0.07s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Right_No_Doors.Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Right_No_Doors
+[2019.07.16-21.01.37:383][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Left_No_Doors...
+[2019.07.16-21.01.37:445][484]LogStaticMesh: Built static mesh [0.06s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Left_No_Doors.Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Left_No_Doors
+[2019.07.16-21.01.37:591][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs...
+[2019.07.16-21.01.37:595][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs
+[2019.07.16-21.01.37:648][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair...
+[2019.07.16-21.01.37:651][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair
+[2019.07.16-21.01.37:790][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs...
+[2019.07.16-21.01.37:808][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs.Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs
+[2019.07.16-21.01.37:904][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs...
+[2019.07.16-21.01.37:926][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs.Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs
+[2019.07.16-21.01.37:950][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVT3_DoubleCafeTable_Lam_29D_58W_17H_No_Power_Access...
+[2019.07.16-21.01.37:990][484]LogStaticMesh: Built static mesh [0.04s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVT3_DoubleCafeTable_Lam_29D_58W_17H_No_Power_Access.Furniture_Systems_HermanMiller_Public_BVT3_DoubleCafeTable_Lam_29D_58W_17H_No_Power_Access
+[2019.07.16-21.01.38:181][484]LogStaticMesh: Building static mesh Furniture_HermanMiller_Collection_Nelson_PedestalTable_Lam_Top_16H_28_1_2Dia...
+[2019.07.16-21.01.38:198][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_Collection_Nelson_PedestalTable_Lam_Top_16H_28_1_2Dia.Furniture_HermanMiller_Collection_Nelson_PedestalTable_Lam_Top_16H_28_1_2Dia
+[2019.07.16-21.01.38:217][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Right_Fin_End_Alt_Doors...
+[2019.07.16-21.01.38:236][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Right_Fin_End_Alt_Doors.Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Right_Fin_End_Alt_Doors
+[2019.07.16-21.01.38:270][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Locale_BRWUF_WorkbaseFullDisplay_Lam_WB_Lam_Upper_Both_Ends_Unfin_Alt_Doors...
+[2019.07.16-21.01.38:291][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUF_WorkbaseFullDisplay_Lam_WB_Lam_Upper_Both_Ends_Unfin_Alt_Doors.Furniture_Systems_HermanMiller_Locale_BRWUF_WorkbaseFullDisplay_Lam_WB_Lam_Upper_Both_Ends_Unfin_Alt_Doors
+[2019.07.16-21.01.38:301][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Locale_BRTB_DisplayTackboards_Full_Display...
+[2019.07.16-21.01.38:302][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRTB_DisplayTackboards_Full_Display.Furniture_Systems_HermanMiller_Locale_BRTB_DisplayTackboards_Full_Display
+[2019.07.16-21.01.38:314][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Left_Fin_End_Alt_Doors...
+[2019.07.16-21.01.38:344][484]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Left_Fin_End_Alt_Doors.Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Left_Fin_End_Alt_Doors
+[2019.07.16-21.01.38:730][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Both_Ends_Unfin_Alt_Doors...
+[2019.07.16-21.01.38:746][484]LogStaticMesh: Built static mesh [0.05s] /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Both_Ends_Unfin_Alt_Doors.Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Both_Ends_Unfin_Alt_Doors
+[2019.07.16-21.01.39:280][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroup-Based_FC300_StandingScreen_Lam_68H_48W_Tackable_Fabric_Infill is too long. Rename before cooking.
+[2019.07.16-21.01.39:280][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroup-Based_FC300_StandingScreen_Lam_68H_48W_Marker_Board_Infill is too long. Rename before cooking.
+[2019.07.16-21.01.39:280][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_Collection_EamesTables_OvalTableSegmentedBase_Lam_Top_Thermo_Edge_28_5H_42D_84W is too long. Rename before cooking.
+[2019.07.16-21.01.39:280][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroupBased_FC310_StandingScreenSupport_In-Line_Screen_Foot is too long. Rename before cooking.
+[2019.07.16-21.01.39:281][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroupBased_FC311_StandingScreenConnectorKit_180_Degree_Connection is too long. Rename before cooking.
+[2019.07.16-21.01.39:281][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Desk_Top-to-Desk_Ganging_Plate is too long. Rename before cooking.
+[2019.07.16-21.01.39:281][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Right_No_Doors is too long. Rename before cooking.
+[2019.07.16-21.01.39:281][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Left_No_Doors is too long. Rename before cooking.
+[2019.07.16-21.01.39:281][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Right_Fin_End_Alt_Doors is too long. Rename before cooking.
+[2019.07.16-21.01.39:281][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUF_WorkbaseFullDisplay_Lam_WB_Lam_Upper_Both_Ends_Unfin_Alt_Doors is too long. Rename before cooking.
+[2019.07.16-21.01.39:281][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Left_Fin_End_Alt_Doors is too long. Rename before cooking.
+[2019.07.16-21.01.39:281][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Both_Ends_Unfin_Alt_Doors is too long. Rename before cooking.
+[2019.07.16-21.01.39:307][484]LogDatasmithImport: Imported Clubhouse_005-Option_A in [0 min 7.709 s]
+[2019.07.16-21.01.39:623][484]LogFactory: FactoryCreateFile: Material with DatasmithImportFactory (0 0 ../../../../../../Users/carla/Downloads/Revit_HermanMiller_Typicals_Public_Office_Landscape/Cove_020-Option_A.udatasmith)
+[2019.07.16-21.01.39:830][484]LogLinker: Warning: Can't find file '/Game/Furniture/Cove_020-Option_A/Cove_020-Option_A'
+[2019.07.16-21.01.39:839][484]LogUObjectGlobals: Warning: Failed to find object 'Object None./Game/Furniture/Cove_020-Option_A/Cove_020-Option_A'
+[2019.07.16-21.01.42:247][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVP4_WhiteBoardOverhang_29W_68H...
+[2019.07.16-21.01.42:250][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP4_WhiteBoardOverhang_29W_68H.Furniture_Systems_HermanMiller_Public_BVP4_WhiteBoardOverhang_29W_68H
+[2019.07.16-21.01.42:279][484]LogStaticMesh: Building static mesh Furniture_HermanMiller_Seating_Setu_LoungeChair_Suspended_Upholstery_Ribbon_Arms...
+[2019.07.16-21.01.42:475][484]LogStaticMesh: Built static mesh [0.20s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_HermanMiller_Seating_Setu_LoungeChair_Suspended_Upholstery_Ribbon_Arms.Furniture_HermanMiller_Seating_Setu_LoungeChair_Suspended_Upholstery_Ribbon_Arms
+[2019.07.16-21.01.42:552][484]LogStaticMesh: Building static mesh Furniture_HermanMiller_Collection_Nelson_PedestalTable_Lam_Top_21_1_2H_17Dia...
+[2019.07.16-21.01.42:564][484]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_HermanMiller_Collection_Nelson_PedestalTable_Lam_Top_21_1_2H_17Dia.Furniture_HermanMiller_Collection_Nelson_PedestalTable_Lam_Top_21_1_2H_17Dia
+[2019.07.16-21.01.42:605][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit...
+[2019.07.16-21.01.42:607][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit.Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit
+[2019.07.16-21.01.42:626][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVB1_FreestandingBin_Lam_17D_42W_29H_No_Power_Access_No_Doors...
+[2019.07.16-21.01.42:698][484]LogStaticMesh: Built static mesh [0.07s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVB1_FreestandingBin_Lam_17D_42W_29H_No_Power_Access_No_Doors.Furniture_Systems_HermanMiller_Public_BVB1_FreestandingBin_Lam_17D_42W_29H_No_Power_Access_No_Doors
+[2019.07.16-21.01.42:758][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate...
+[2019.07.16-21.01.42:759][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate.Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate
+[2019.07.16-21.01.42:826][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVP4_WhiteBoardOverhang_42W_68H...
+[2019.07.16-21.01.42:830][484]LogStaticMesh: Built static mesh [0.06s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP4_WhiteBoardOverhang_42W_68H.Furniture_Systems_HermanMiller_Public_BVP4_WhiteBoardOverhang_42W_68H
+[2019.07.16-21.01.42:924][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_42W_68H_Fabric...
+[2019.07.16-21.01.42:942][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_42W_68H_Fabric.Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_42W_68H_Fabric
+[2019.07.16-21.01.43:028][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip...
+[2019.07.16-21.01.43:029][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip.Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip
+[2019.07.16-21.01.43:084][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Corner_Placed_Clip...
+[2019.07.16-21.01.43:085][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Corner_Placed_Clip.Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Corner_Placed_Clip
+[2019.07.16-21.01.43:107][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_29W_68H_Fabric...
+[2019.07.16-21.01.43:125][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_29W_68H_Fabric.Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_29W_68H_Fabric
+[2019.07.16-21.01.43:308][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVB1_FreestandingBin_Lam_17D_29W_29H_No_Power_Access_No_Doors...
+[2019.07.16-21.01.43:371][484]LogStaticMesh: Built static mesh [0.06s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVB1_FreestandingBin_Lam_17D_29W_29H_No_Power_Access_No_Doors.Furniture_Systems_HermanMiller_Public_BVB1_FreestandingBin_Lam_17D_29W_29H_No_Power_Access_No_Doors
+[2019.07.16-21.01.43:542][484]LogStaticMesh: Building static mesh Furniture_HermanMiller_Seating_Setu_RoundTableSquareEdge_Lam_22H_36Dia...
+[2019.07.16-21.01.43:570][484]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_HermanMiller_Seating_Setu_RoundTableSquareEdge_Lam_22H_36Dia.Furniture_HermanMiller_Seating_Setu_RoundTableSquareEdge_Lam_22H_36Dia
+[2019.07.16-21.01.43:872][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVB1_FreestandingBin_Lam_17D_42W_29H_No_Power_Access_No_Doors is too long. Rename before cooking.
+[2019.07.16-21.01.43:872][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip is too long. Rename before cooking.
+[2019.07.16-21.01.43:872][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Corner_Placed_Clip is too long. Rename before cooking.
+[2019.07.16-21.01.43:872][484]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVB1_FreestandingBin_Lam_17D_29W_29H_No_Power_Access_No_Doors is too long. Rename before cooking.
+[2019.07.16-21.01.43:883][484]LogDatasmithImport: Imported Cove_020-Option_A in [0 min 4.122 s]
+[2019.07.16-21.01.43:926][484]LogFactory: FactoryCreateFile: Material with DatasmithImportFactory (0 0 ../../../../../../Users/carla/Downloads/Revit_HermanMiller_Typicals_Public_Office_Landscape/Hive_070.udatasmith)
+[2019.07.16-21.01.44:058][484]LogLinker: Warning: Can't find file '/Game/Furniture/Hive_070/Hive_070'
+[2019.07.16-21.01.44:076][484]LogUObjectGlobals: Warning: Failed to find object 'Object None./Game/Furniture/Hive_070/Hive_070'
+[2019.07.16-21.01.44:975][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Connecting_Bin_Ganging_Kit...
+[2019.07.16-21.01.44:976][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Connecting_Bin_Ganging_Kit.Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Connecting_Bin_Ganging_Kit
+[2019.07.16-21.01.44:993][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_Legs...
+[2019.07.16-21.01.45:029][484]LogStaticMesh: Built static mesh [0.04s] /Game/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_Legs.Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_Legs
+[2019.07.16-21.01.45:090][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate...
+[2019.07.16-21.01.45:091][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate.Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate
+[2019.07.16-21.01.45:096][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit...
+[2019.07.16-21.01.45:097][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit.Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit
+[2019.07.16-21.01.45:105][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD3_UpperBin_Lam_17D_29W_14H...
+[2019.07.16-21.01.45:110][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD3_UpperBin_Lam_17D_29W_14H.Furniture_Systems_HermanMiller_Public_BVD3_UpperBin_Lam_17D_29W_14H
+[2019.07.16-21.01.45:143][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD2_ConnectingBin_Lam_17D_29W_29H_No_Doors...
+[2019.07.16-21.01.45:169][484]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD2_ConnectingBin_Lam_17D_29W_29H_No_Doors.Furniture_Systems_HermanMiller_Public_BVD2_ConnectingBin_Lam_17D_29W_29H_No_Doors
+[2019.07.16-21.01.45:212][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Right_Doors...
+[2019.07.16-21.01.45:271][484]LogStaticMesh: Built static mesh [0.06s] /Game/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Right_Doors.Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Right_Doors
+[2019.07.16-21.01.45:506][484]LogDatasmithImport: Imported Hive_070 in [0 min 1.538 s]
+[2019.07.16-21.01.45:564][484]LogFactory: FactoryCreateFile: Material with DatasmithImportFactory (0 0 ../../../../../../Users/carla/Downloads/Revit_HermanMiller_Typicals_Public_Office_Landscape/Jump_Space_015.udatasmith)
+[2019.07.16-21.01.45:655][484]LogLinker: Warning: Can't find file '/Game/Furniture/Jump_Space_015/Jump_Space_015'
+[2019.07.16-21.01.45:673][484]LogUObjectGlobals: Warning: Failed to find object 'Object None./Game/Furniture/Jump_Space_015/Jump_Space_015'
+[2019.07.16-21.01.46:583][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVT3_DoubleCafeTable_Lam_29D_58W_17H_Power_Access...
+[2019.07.16-21.01.46:614][484]LogStaticMesh: Built static mesh [0.04s] /Game/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVT3_DoubleCafeTable_Lam_29D_58W_17H_Power_Access.Furniture_Systems_HermanMiller_Public_BVT3_DoubleCafeTable_Lam_29D_58W_17H_Power_Access
+[2019.07.16-21.01.46:689][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs...
+[2019.07.16-21.01.46:694][484]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs
+[2019.07.16-21.01.46:777][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair...
+[2019.07.16-21.01.46:779][484]LogStaticMesh: Built static mesh [0.05s] /Game/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair
+[2019.07.16-21.01.46:857][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs...
+[2019.07.16-21.01.46:876][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs.Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs
+[2019.07.16-21.01.46:921][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs...
+[2019.07.16-21.01.46:938][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs.Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs
+[2019.07.16-21.01.46:953][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Four_Chairs...
+[2019.07.16-21.01.46:960][484]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Four_Chairs.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Four_Chairs
+[2019.07.16-21.01.47:168][484]LogDatasmithImport: Imported Jump_Space_015 in [0 min 1.573 s]
+[2019.07.16-21.01.47:306][484]LogFactory: FactoryCreateFile: Material with DatasmithImportFactory (0 0 ../../../../../../Users/carla/Downloads/Revit_HermanMiller_Typicals_Public_Office_Landscape/Landing_010-Option_A.udatasmith)
+[2019.07.16-21.01.47:413][484]LogLinker: Warning: Can't find file '/Game/Furniture/Landing_010-Option_A/Landing_010-Option_A'
+[2019.07.16-21.01.47:424][484]LogUObjectGlobals: Warning: Failed to find object 'Object None./Game/Furniture/Landing_010-Option_A/Landing_010-Option_A'
+[2019.07.16-21.01.48:498][484]LogStaticMesh: Building static mesh Furniture_HermanMiller_Seating_Swoop_OA300_WorkTable_Lam_16_Dia...
+[2019.07.16-21.01.48:528][484]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_HermanMiller_Seating_Swoop_OA300_WorkTable_Lam_16_Dia.Furniture_HermanMiller_Seating_Swoop_OA300_WorkTable_Lam_16_Dia
+[2019.07.16-21.01.48:570][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS4_SectionalSeatBackGangingKit_2_Seat_Kit...
+[2019.07.16-21.01.48:571][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS4_SectionalSeatBackGangingKit_2_Seat_Kit.Furniture_Systems_HermanMiller_Public_BVS4_SectionalSeatBackGangingKit_2_Seat_Kit
+[2019.07.16-21.01.48:674][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs...
+[2019.07.16-21.01.48:677][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs
+[2019.07.16-21.01.48:688][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Four_Chairs...
+[2019.07.16-21.01.48:694][484]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Four_Chairs.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Four_Chairs
+[2019.07.16-21.01.48:724][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Three_Chairs...
+[2019.07.16-21.01.48:728][484]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Three_Chairs.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Three_Chairs
+[2019.07.16-21.01.48:875][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair...
+[2019.07.16-21.01.48:877][484]LogStaticMesh: Built static mesh [0.07s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair
+[2019.07.16-21.01.48:889][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs...
+[2019.07.16-21.01.48:907][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs.Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs
+[2019.07.16-21.01.48:923][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs...
+[2019.07.16-21.01.48:945][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs.Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs
+[2019.07.16-21.01.48:976][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVT1_SingleCafeTable_Lam_29D_29W_18H_No_Power_Access...
+[2019.07.16-21.01.49:000][484]LogStaticMesh: Built static mesh [0.04s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVT1_SingleCafeTable_Lam_29D_29W_18H_No_Power_Access.Furniture_Systems_HermanMiller_Public_BVT1_SingleCafeTable_Lam_29D_29W_18H_No_Power_Access
+[2019.07.16-21.01.49:041][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Left...
+[2019.07.16-21.01.49:061][484]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Left.Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Left
+[2019.07.16-21.01.49:105][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Straight...
+[2019.07.16-21.01.49:119][484]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Straight.Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Straight
+[2019.07.16-21.01.49:149][484]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Right...
+[2019.07.16-21.01.49:171][484]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Right.Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Right
+[2019.07.16-21.01.49:454][484]LogDatasmithImport: Imported Landing_010-Option_A in [0 min 2.098 s]
+[2019.07.16-21.02.32:515][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.16-21.02.33:712][342]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (43.370 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.16-21.02.43:679][697]Cmd: DELETE
+[2019.07.16-21.02.43:679][697]Cmd: ACTOR DELETE
+[2019.07.16-21.02.46:883][697]LogSlate: Window 'Message' being destroyed
+[2019.07.16-21.02.46:894][697]LogEditorActor: Deleted Actor: DatasmithSceneActor
+[2019.07.16-21.02.46:973][697]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2019.07.16-21.02.46:973][697]LogEditorActor: Deleted 1 Actors (3.294 secs)
+[2019.07.16-21.02.52:330][865]Cmd: DELETE
+[2019.07.16-21.02.52:331][865]Cmd: ACTOR DELETE
+[2019.07.16-21.02.59:105][865]LogSlate: Window 'Message' being destroyed
+[2019.07.16-21.02.59:116][865]LogEditorActor: Deleted Actor: DatasmithSceneActor
+[2019.07.16-21.02.59:177][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.07.16-21.02.59:177][865]LogEditorActor: Deleted 1 Actors (6.848 secs)
+[2019.07.16-21.03.14:918][332]Cmd: DELETE
+[2019.07.16-21.03.14:918][332]Cmd: ACTOR DELETE
+[2019.07.16-21.03.15:293][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:294][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:295][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:296][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:297][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:298][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:298][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:299][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:299][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:299][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:300][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:300][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:300][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:300][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:301][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:301][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:301][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:302][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:302][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:302][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:303][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:303][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:303][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:304][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:304][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:304][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:305][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:306][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:306][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:307][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:307][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:307][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:307][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:308][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:308][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:308][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:309][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:309][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:309][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:310][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:310][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:311][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:311][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:312][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:312][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:313][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:313][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:314][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:314][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:314][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:315][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:316][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:317][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:318][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:318][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:318][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:319][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:319][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:320][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:320][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:321][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:321][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:322][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:322][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:322][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:323][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:323][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:324][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:324][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:325][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:325][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:325][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:326][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:326][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:327][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:329][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:330][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:331][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:331][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:331][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:332][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:332][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:332][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:333][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:333][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:333][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:334][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:334][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:334][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:334][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:335][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:335][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:335][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:336][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:336][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:336][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:337][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:337][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:337][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:338][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:338][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:338][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:338][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:339][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:339][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:339][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:340][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:340][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:341][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:341][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:341][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:342][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:342][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:342][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:342][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:343][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:343][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:344][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:344][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:345][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:345][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:346][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:346][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:347][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:348][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:349][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:349][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:350][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:350][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:350][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:351][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:351][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:351][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:352][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:352][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:353][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:353][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:353][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:354][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:354][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:354][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:354][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:355][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:355][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:355][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:355][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:356][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:356][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:356][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:357][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:357][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:358][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:358][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:359][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:359][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:360][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:361][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:364][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:365][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:365][332]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.03.15:402][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.07.16-21.03.15:403][332]LogEditorActor: Deleted 160 Actors (0.485 secs)
+[2019.07.16-21.03.30:773][195]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.16-21.03.38:209][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.16-21.03.43:068][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs_5)
+[2019.07.16-21.03.45:944][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs_5)
+[2019.07.16-21.03.48:769][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.16-21.03.50:345][399]Cmd: DELETE
+[2019.07.16-21.03.50:345][399]Cmd: ACTOR DELETE
+[2019.07.16-21.03.53:062][399]LogSlate: Window 'Message' being destroyed
+[2019.07.16-21.03.53:071][399]LogEditorActor: Deleted Actor: DatasmithSceneActor
+[2019.07.16-21.03.53:127][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.07.16-21.03.53:128][399]LogEditorActor: Deleted 1 Actors (2.783 secs)
+[2019.07.16-21.03.58:261][674]Cmd: DELETE
+[2019.07.16-21.03.58:261][674]Cmd: ACTOR DELETE
+[2019.07.16-21.04.02:004][674]LogSlate: Window 'Message' being destroyed
+[2019.07.16-21.04.02:018][674]LogEditorActor: Deleted Actor: DatasmithSceneActor
+[2019.07.16-21.04.02:072][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.07.16-21.04.02:072][674]LogEditorActor: Deleted 1 Actors (3.811 secs)
+[2019.07.16-21.04.41:829][541]Cmd: DELETE
+[2019.07.16-21.04.41:829][541]Cmd: ACTOR DELETE
+[2019.07.16-21.04.41:953][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:954][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:955][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:955][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:956][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:957][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:962][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:962][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:963][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:963][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:963][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:964][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:964][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:965][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:965][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:965][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:966][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:966][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:967][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:968][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:968][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:968][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:969][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:969][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:970][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:970][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:970][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:970][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:971][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:971][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:971][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:972][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:973][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:973][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:973][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:974][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:974][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:974][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:975][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:975][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:975][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:976][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:976][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:976][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:978][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:978][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:979][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:979][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:980][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:980][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:981][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:981][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:982][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:982][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:983][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.41:983][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.04.42:023][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.07.16-21.04.42:024][541]LogEditorActor: Deleted 56 Actors (0.195 secs)
+[2019.07.16-21.04.58:859][600]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.16-21.05.03:525][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Right_Fin_End_Alt_Doors_3)
+[2019.07.16-21.05.07:414][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.16-21.05.11:178][394]Cmd: DELETE
+[2019.07.16-21.05.11:178][394]Cmd: ACTOR DELETE
+[2019.07.16-21.05.11:195][394]LogEditorActor: Deleted Actor: Actor
+[2019.07.16-21.05.11:196][394]LogEditorActor: Deleted Actor: Actor
+[2019.07.16-21.05.11:196][394]LogEditorActor: Deleted Actor: Actor
+[2019.07.16-21.05.11:239][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.07.16-21.05.11:240][394]LogEditorActor: Deleted 3 Actors (0.062 secs)
+[2019.07.16-21.05.16:336][785]Cmd: DELETE
+[2019.07.16-21.05.16:336][785]Cmd: ACTOR DELETE
+[2019.07.16-21.05.19:215][785]LogSlate: Window 'Message' being destroyed
+[2019.07.16-21.05.19:226][785]LogEditorActor: Deleted Actor: Actor
+[2019.07.16-21.05.19:284][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.07.16-21.05.19:286][785]LogEditorActor: Deleted 1 Actors (2.949 secs)
+[2019.07.16-21.05.31:580][656]Cmd: DELETE
+[2019.07.16-21.05.31:581][656]Cmd: ACTOR DELETE
+[2019.07.16-21.05.41:953][656]LogSlate: Window 'Message' being destroyed
+[2019.07.16-21.05.41:963][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:965][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:967][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:968][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:968][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:969][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:970][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:971][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:971][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:972][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:972][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:972][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:972][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.05.41:973][656]LogEditorActor: Deleted Actor: Actor
+[2019.07.16-21.05.42:015][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.07.16-21.05.42:016][656]LogEditorActor: Deleted 14 Actors (10.434 secs)
+[2019.07.16-21.05.48:384][154]Cmd: DELETE
+[2019.07.16-21.05.48:384][154]Cmd: ACTOR DELETE
+[2019.07.16-21.05.55:428][154]LogSlate: Window 'Message' being destroyed
+[2019.07.16-21.05.55:480][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.07.16-21.05.55:481][154]LogEditorActor: Deleted 0 Actors (7.097 secs)
+[2019.07.16-21.06.00:703][499]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.07.16-21.06.06:165][853]Cmd: DELETE
+[2019.07.16-21.06.06:165][853]Cmd: ACTOR DELETE
+[2019.07.16-21.06.08:469][853]LogSlate: Window 'Message' being destroyed
+[2019.07.16-21.06.08:481][853]LogEditorActor: Deleted Actor: DatasmithSceneActor
+[2019.07.16-21.06.08:530][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.07.16-21.06.08:530][853]LogEditorActor: Deleted 1 Actors (2.364 secs)
+[2019.07.16-21.06.33:689][544]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.635 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.16-21.06.45:723][340]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.16-21.06.52:386][741]Cmd: DELETE
+[2019.07.16-21.06.52:386][741]Cmd: ACTOR DELETE
+[2019.07.16-21.06.52:474][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:475][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:477][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:477][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:478][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:478][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:478][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:479][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:479][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:480][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:480][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:480][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:481][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:481][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:481][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:482][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:482][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:482][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:482][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:483][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:483][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:483][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:484][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:484][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:484][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:484][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:485][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:485][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:485][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:486][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.16-21.06.52:531][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.07.16-21.06.52:531][741]LogEditorActor: Deleted 30 Actors (0.145 secs)
+[2019.07.16-21.07.27:435][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.16-21.07.35:891][165]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.16-21.07.45:177][917]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.16-21.07.51:518][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.16-21.07.52:814][533]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.16-21.08.05:500][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.16-21.08.05:571][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.07.16-21.08.05:829][477]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/ThirdPersonExampleMapF861DE494949F1539FFCBA8CC65A2B2B.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.07.16-21.08.06:186][477]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/ThirdPersonExampleMap_BuiltData34A80085476FCB16646F2786E748A811.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.07.16-21.08.20:930][207]LogStaticMesh: Building static mesh Furniture_HermanMiller_Collection_EamesTables_RoundTableContractBase_Lam_Top_Thermo_Edge_28_5H_36Dia...
+[2019.07.16-21.08.20:993][207]LogStaticMesh: Built static mesh [0.06s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Collection_EamesTables_RoundTableContractBase_Lam_Top_Thermo_Edge_28_5H_36Dia.Furniture_HermanMiller_Collection_EamesTables_RoundTableContractBase_Lam_Top_Thermo_Edge_28_5H_36Dia
+[2019.07.16-21.08.21:025][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FW132_Mid-RunSupportClosed_Double-Sided_Pwrd...
+[2019.07.16-21.08.21:044][207]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW132_Mid-RunSupportClosed_Double-Sided_Pwrd.Furniture_Systems_HermanMiller_CanvasBeam-Based_FW132_Mid-RunSupportClosed_Double-Sided_Pwrd
+[2019.07.16-21.08.21:077][207]LogStaticMesh: Building static mesh Furniture_HermanMiller_Collection_SheSaidStool_High_Height...
+[2019.07.16-21.08.21:133][207]LogStaticMesh: Built static mesh [0.06s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Collection_SheSaidStool_High_Height.Furniture_HermanMiller_Collection_SheSaidStool_High_Height
+[2019.07.16-21.08.21:261][207]LogStaticMesh: Building static mesh Furniture_Geiger_Tables_Conference_Peer_AI_36D_x_120W_x_42H_Peer_ConferenceTable_Freestanding_with_Powered_Wood_Top...
+[2019.07.16-21.08.21:443][207]LogStaticMesh: Built static mesh [0.18s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Geiger_Tables_Conference_Peer_AI_36D_x_120W_x_42H_Peer_ConferenceTable_Freestanding_with_Powered_Wood_Top.Furniture_Geiger_Tables_Conference_Peer_AI_36D_x_120W_x_42H_Peer_ConferenceTable_Freestanding_with_Powered_Wood_Top
+[2019.07.16-21.08.21:461][207]LogStaticMesh: Building static mesh Furniture_HermanMiller_Seating_Setu_MultipurposeChair_Suspended_Upholstery_Ribbon_Arms_5-Star_Base_Standard_Height_Range_w__Casters...
+[2019.07.16-21.08.21:884][207]LogStaticMesh: Built static mesh [0.42s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Seating_Setu_MultipurposeChair_Suspended_Upholstery_Ribbon_Arms_5-Star_Base_Standard_Height_Range_w__Casters.Furniture_HermanMiller_Seating_Setu_MultipurposeChair_Suspended_Upholstery_Ribbon_Arms_5-Star_Base_Standard_Height_Range_w__Casters
+[2019.07.16-21.08.21:962][207]LogStaticMesh: Building static mesh Furniture_HermanMiller_TablesandFurniture_DT1BS_EverywhereSquareTable_4-ColumnBase_Lam_42D_42W_4-Column_Base...
+[2019.07.16-21.08.22:000][207]LogStaticMesh: Built static mesh [0.05s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_TablesandFurniture_DT1BS_EverywhereSquareTable_4-ColumnBase_Lam_42D_42W_4-Column_Base.Furniture_HermanMiller_TablesandFurniture_DT1BS_EverywhereSquareTable_4-ColumnBase_Lam_42D_42W_4-Column_Base
+[2019.07.16-21.08.22:007][207]LogStaticMesh: Building static mesh Furniture_HermanMiller_TablesandFurniture_DT1FS_EverywhereSoftRectangleMeetingTable_3-ColumnBaseSpanner_Ven_30D_48W_Double_3-Column_Base_Spanner...
+[2019.07.16-21.08.22:078][207]LogStaticMesh: Built static mesh [0.07s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_TablesandFurniture_DT1FS_EverywhereSoftRectangleMeetingTable_3-ColumnBaseSpanner_Ven_30D_48W_Double_3-Column_Base_Spanner.Furniture_HermanMiller_TablesandFurniture_DT1FS_EverywhereSoftRectangleMeetingTable_3-ColumnBaseSpanner_Ven_30D_48W_Double_3-Column_Base_Spanner
+[2019.07.16-21.08.22:097][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FW120_FW121_BeamSection_Double-Sided_60_D_x_60_W...
+[2019.07.16-21.08.22:119][207]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW120_FW121_BeamSection_Double-Sided_60_D_x_60_W.Furniture_Systems_HermanMiller_CanvasBeam-Based_FW120_FW121_BeamSection_Double-Sided_60_D_x_60_W
+[2019.07.16-21.08.22:139][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FW123_BeamConnector_Double-Sided...
+[2019.07.16-21.08.22:148][207]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW123_BeamConnector_Double-Sided.Furniture_Systems_HermanMiller_CanvasBeam-Based_FW123_BeamConnector_Double-Sided
+[2019.07.16-21.08.22:150][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FW130_EndSupportOpen_Double-Sided_60_D...
+[2019.07.16-21.08.22:197][207]LogStaticMesh: Built static mesh [0.05s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW130_EndSupportOpen_Double-Sided_60_D.Furniture_Systems_HermanMiller_CanvasBeam-Based_FW130_EndSupportOpen_Double-Sided_60_D
+[2019.07.16-21.08.22:199][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FW410_BeamAttachedScreenGlass_Opal_Etched_13_1_2_H_x_60_W...
+[2019.07.16-21.08.22:210][207]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW410_BeamAttachedScreenGlass_Opal_Etched_13_1_2_H_x_60_W.Furniture_Systems_HermanMiller_CanvasBeam-Based_FW410_BeamAttachedScreenGlass_Opal_Etched_13_1_2_H_x_60_W
+[2019.07.16-21.08.22:211][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10E_RectangularSurfaceEndPosition_Lam_24_D_x_63_W...
+[2019.07.16-21.08.22:219][207]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10E_RectangularSurfaceEndPosition_Lam_24_D_x_63_W.Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10E_RectangularSurfaceEndPosition_Lam_24_D_x_63_W
+[2019.07.16-21.08.22:221][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10M_RectangluarSurfaceMiddle_Lam_24_D_x_60_W...
+[2019.07.16-21.08.22:228][207]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10M_RectangluarSurfaceMiddle_Lam_24_D_x_60_W.Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10M_RectangluarSurfaceMiddle_Lam_24_D_x_60_W
+[2019.07.16-21.08.22:231][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_29W_54H_Fabric...
+[2019.07.16-21.08.22:342][207]LogStaticMesh: Built static mesh [0.11s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_29W_54H_Fabric.Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_29W_54H_Fabric
+[2019.07.16-21.08.22:421][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip...
+[2019.07.16-21.08.22:433][207]LogStaticMesh: Built static mesh [0.08s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip.Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip
+[2019.07.16-21.08.22:490][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Left...
+[2019.07.16-21.08.22:624][207]LogStaticMesh: Built static mesh [0.16s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Left.Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Left
+[2019.07.16-21.08.22:641][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Right...
+[2019.07.16-21.08.22:780][207]LogStaticMesh: Built static mesh [0.14s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Right.Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Right
+[2019.07.16-21.08.22:795][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Straight...
+[2019.07.16-21.08.22:880][207]LogStaticMesh: Built static mesh [0.09s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Straight.Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Straight
+[2019.07.16-21.08.22:905][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair...
+[2019.07.16-21.08.22:930][207]LogStaticMesh: Built static mesh [0.04s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair
+[2019.07.16-21.08.22:933][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Three_Chairs...
+[2019.07.16-21.08.22:981][207]LogStaticMesh: Built static mesh [0.05s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Three_Chairs.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Three_Chairs
+[2019.07.16-21.08.22:983][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs...
+[2019.07.16-21.08.23:027][207]LogStaticMesh: Built static mesh [0.04s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs
+[2019.07.16-21.08.23:030][207]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS4_SectionalSeatBackGangingKit_2_Seat_Kit...
+[2019.07.16-21.08.23:047][207]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS4_SectionalSeatBackGangingKit_2_Seat_Kit.Furniture_Systems_HermanMiller_Public_BVS4_SectionalSeatBackGangingKit_2_Seat_Kit
+[2019.07.16-21.08.23:091][207]LogAIModule: Creating AISystem for world ThirdPersonExampleMap1
+[2019.07.16-21.08.23:116][207]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1
+[2019.07.16-21.08.23:166][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.07.16-21.08.28:912][207]LogSlate: Window 'Save Content' being destroyed
+[2019.07.16-21.08.29:136][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Clubhouse_005-Option_AB4367BC54A343AC14ECD82B4A4D19339.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Clubhouse_005-Option_A.uasset'
+[2019.07.16-21.08.29:291][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_CollectioDFF6C50647D3701EAC16F7AF8B788D90.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_Collection_Eames_AluminumGroup_LoungeChairSwivel_Arms_Swivel_Base.uasset'
+[2019.07.16-21.08.29:444][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_Collectio79066BF14AFCF7966041599650B843DB.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_Collection_Eames_AluminumGroup_MgmtChair_Casters_Manual_Hgt_Adj.uasset'
+[2019.07.16-21.08.29:632][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_CollectioDDD422EF4E24E64DAD17538EF9FD0771.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_Collection_EamesTables_OvalTableSegmentedBase_Lam_Top_Thermo_Edge_28_5H_42D_84W.uasset'
+[2019.07.16-21.08.29:727][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_Collectio88ACF8364BF37D2BA04D1B8B54F0A418.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_Collection_Nelson_PedestalTable_Lam_Top_16H_28_1_2Dia.uasset'
+[2019.07.16-21.08.29:934][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_Seating_AEC663C834CA9D8E8D54BBF96F8B90903.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_Seating_AE11_Aeron_WorkChair_Tlt_Lim_Ang_Adj_Arms_NonuphstPds_Size_B.uasset'
+[2019.07.16-21.08.30:067][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_TheInters1670064C44EC66D7A2CEF9AA330A45BC.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_HermanMiller_TheIntersectPortfolio_CP820_MobileEasel_Magnetic_Lam_Shelf_30W.uasset'
+[2019.07.16-21.08.30:158][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_C844A69884291D5C64D8CE0BDB8D9BE86.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroup-Based_FC300_StandingScreen_Lam_68H_48W_Marker_Board_Infill.uasset'
+[2019.07.16-21.08.30:250][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_CEDBAB7DC4891E704AA0ABBA14AB1B171.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroup-Based_FC300_StandingScreen_Lam_68H_48W_Tackable_Fabric_Infill.uasset'
+[2019.07.16-21.08.30:402][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_CC646B6984BF618FDDC61C7AE062FE318.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroupBased_FC310_StandingScreenSupport_In-Line_Screen_Foot.uasset'
+[2019.07.16-21.08.30:483][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_C90DB5A0B46207BCB92928B9A37E7CB6F.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroupBased_FC311_StandingScreenConnectorKit_180_Degree_Connection.uasset'
+[2019.07.16-21.08.30:591][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_C0B6282934EC8CE4662B3AFBAF66E69DF.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasGroupBased_FC311_StandingScreenConnectorKit_End-of-Run.uasset'
+[2019.07.16-21.08.30:661][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_L8259F4E649718EEC8C44BDB684F451DD.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRTB_DisplayTackboards_Full_Display.uasset'
+[2019.07.16-21.08.30:760][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_L8D738B9146C23205106F61945A47C14B.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUF_WorkbaseFullDisplay_Lam_WB_Lam_Upper_Both_Ends_Unfin_Alt_Doors.uasset'
+[2019.07.16-21.08.30:851][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_L8EC27A1247ECE763785131A94104D338.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Both_Ends_Unfin_Alt_Doors.uasset'
+[2019.07.16-21.08.30:945][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_L9E88D9A045AE93AE1D4AAAA1DB29F716.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Left_Fin_End_Alt_Doors.uasset'
+[2019.07.16-21.08.31:042][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_L89479C95401CD9B79A97B9BFEEB6339D.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Locale_BRWUS_WorkbaseUpperShelving_Lam_WB_Lam_Upper_Right_Fin_End_Alt_Doors.uasset'
+[2019.07.16-21.08.31:173][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P4827E8DD4BF81101EE994782E5655033.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Left_No_Doors.uasset'
+[2019.07.16-21.08.31:306][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P44BE683E4406271E7912B4987B8EDD56.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Right_No_Doors.uasset'
+[2019.07.16-21.08.31:387][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PC55F658643C0864E1CD3AFB4BF6E67B3.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit.uasset'
+[2019.07.16-21.08.31:460][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P5B70F21342B91041CCD6EB9E76C3E164.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate.uasset'
+[2019.07.16-21.08.31:563][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PC21335C047785AF22168F09460BF03D0.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Desk_Top-to-Desk_Ganging_Plate.uasset'
+[2019.07.16-21.08.31:655][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PFEE8D88349B6952F03F867A82071B660.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP5_DesktopDivider_58W_13H_Fabric_Freestanding.uasset'
+[2019.07.16-21.08.31:777][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P3D56C7104686E01A920F42A44ACAA5D1.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs.uasset'
+[2019.07.16-21.08.31:889][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PFA4CE1764E2BFBB62322A9BE0E4C0667.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs.uasset'
+[2019.07.16-21.08.32:036][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P634EEB1D47A0C02EE7B1C5873ECA08F2.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair.uasset'
+[2019.07.16-21.08.32:148][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PD51367DD420D3AA50E122C9D002FE2EE.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs.uasset'
+[2019.07.16-21.08.32:292][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P665D396A4A0D5A71188655961FB48438.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVT3_DoubleCafeTable_Lam_29D_58W_17H_No_Power_Access.uasset'
+[2019.07.16-21.08.32:448][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Fallback_ColorE911ACC543BC1928E6DE3788FEE3BF33.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Fallback_Color.uasset'
+[2019.07.16-21.08.32:552][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fabr5481C973494ACB648BBC1698829C62A1.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Fabric_3D01_Pellicle_Classic_Carbon.uasset'
+[2019.07.16-21.08.32:625][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FabrB4874B264032942128438BA2653E3889.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Fabric_8T18_Crossing_Indigo.uasset'
+[2019.07.16-21.08.32:712][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini45779F214686D8C74242F999DAEB91C1.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_63_Fog.uasset'
+[2019.07.16-21.08.32:813][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini316F97604FF52EBFFC1E1F94D11584B4.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_8Q_Folkstone_Grey.uasset'
+[2019.07.16-21.08.32:896][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini15EDF55041F0D4112055EA82DC2EE996.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_91_White.uasset'
+[2019.07.16-21.08.32:991][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini44DFAA3B499A5E31F887829A81517505.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_97_Twilight.uasset'
+[2019.07.16-21.08.33:085][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini3B1044FF440A44EB84439DAE54AD6635.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_AN_Anodized_Aluminum.uasset'
+[2019.07.16-21.08.33:164][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniDE08DE8749C008FD8FBB23B4DE2ECCAD.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_BK_Black.uasset'
+[2019.07.16-21.08.33:250][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini75D43F5B4D908278652B7E8FAC24895D.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_BU_Black_Umber.uasset'
+[2019.07.16-21.08.33:330][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini94CEB40749CAACDFD54372BE1265CB0B.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_G1_Graphite.uasset'
+[2019.07.16-21.08.33:441][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini16844B76442B3C3CACBA3D9608B9D336.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_L_Polished_Aluminum.uasset'
+[2019.07.16-21.08.33:529][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini946F00CB46B6CF937089DE822F329723.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_MS_Metallic_Silver.uasset'
+[2019.07.16-21.08.33:645][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini9A151C54458DD624C6B8CF86D32269FD.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_PA_Polished_Aluminum.uasset'
+[2019.07.16-21.08.33:727][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniA073C84049541FF0238525A274054BB9.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_SG_Slate_Grey.uasset'
+[2019.07.16-21.08.33:809][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini52836F924103DDBFAD557C8D9DC699C9.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_White_Acrylis.uasset'
+[2019.07.16-21.08.33:893][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Lami88D2658B41CD31B0A5EA1B84A6ACF5A5.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Laminate_8Q_Folkstone_Grey.uasset'
+[2019.07.16-21.08.33:978][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_LamiEF089E4D4BCEDAAFDC2659B8342D0F38.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Laminate_91_White.uasset'
+[2019.07.16-21.08.34:096][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_LamiEF699659414C24B42AA86882D4BF2B64.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Laminate_BK_Black.uasset'
+[2019.07.16-21.08.34:176][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_LamiBA8816EA4D7A25835E8E20B33AF34BF7.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Laminate_X1_Chalk_White.uasset'
+[2019.07.16-21.08.34:260][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Netw3ECE5132454FD57D46AFE890EB9A7961.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Network_Fabric_1A906_Twilight.uasset'
+[2019.07.16-21.08.34:347][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_SeatD22B680F4D6A067946FBA1BD892297E6.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Seat_Fabric_2109_Leather_Black.uasset'
+[2019.07.16-21.08.34:427][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_SystC30B48BF4B0FF8E3BEF9D0BAF18671FF.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_System_Fabric_8R15_Twist_Shale.uasset'
+[2019.07.16-21.08.34:539][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Syst81E7350A45EB4515F6DDC9BDC2AE980C.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_System_Fabric_8T03_Crossing_Wicker.uasset'
+[2019.07.16-21.08.34:625][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_SystFE7DFDC344559E7BA95B96932EBC3057.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_System_Fabric_8T18_Crossing_Indigo.uasset'
+[2019.07.16-21.08.34:711][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Vene26AAFC154854FF1B00165CB5B5115AC4.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Clubhouse_005-Option_A/Materials/Unsupported_Herman_Miller_-_Veneer_Plywood_Edge.uasset'
+[2019.07.16-21.08.34:773][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Cove_020-Option_A301A61B944AFFEBD517C58A68C50FA13.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Cove_020-Option_A.uasset'
+[2019.07.16-21.08.34:894][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_Collectio0C94F93F4B96498FDBC795A61634B52D.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_HermanMiller_Collection_Nelson_PedestalTable_Lam_Top_21_1_2H_17Dia.uasset'
+[2019.07.16-21.08.35:157][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_Seating_SA5F0866446ED17EDA92B128CB17B6E3A.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_HermanMiller_Seating_Setu_LoungeChair_Suspended_Upholstery_Ribbon_Arms.uasset'
+[2019.07.16-21.08.35:260][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_Seating_SF3A8622749C57166A9BE8C8BA14C309C.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_HermanMiller_Seating_Setu_RoundTableSquareEdge_Lam_22H_36Dia.uasset'
+[2019.07.16-21.08.35:446][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P1C1286A74DBF4A6A59AEF78CBB193781.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVB1_FreestandingBin_Lam_17D_29W_29H_No_Power_Access_No_Doors.uasset'
+[2019.07.16-21.08.35:577][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PFCB00D3B44B36EC53A2062A7E6E0C306.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVB1_FreestandingBin_Lam_17D_42W_29H_No_Power_Access_No_Doors.uasset'
+[2019.07.16-21.08.35:659][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P3C97A86C422596DAA30979BC6D9C0BE1.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit.uasset'
+[2019.07.16-21.08.35:757][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PDC00C45B4940617406632E8D6183DA72.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate.uasset'
+[2019.07.16-21.08.35:877][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PAFACB9D640757E34FF3A968859D56913.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_29W_68H_Fabric.uasset'
+[2019.07.16-21.08.35:986][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PC3674D7840D7D2FB2E58C39858880A2A.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_42W_68H_Fabric.uasset'
+[2019.07.16-21.08.36:169][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P5FB29ECC40329ADD50B63DBBB8F67E63.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Corner_Placed_Clip.uasset'
+[2019.07.16-21.08.36:247][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P9DF279414B043406BBD207818C32C95E.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip.uasset'
+[2019.07.16-21.08.36:426][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P84A0F8904C7B5A2C4079E188B732AF1A.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP4_WhiteBoardOverhang_29W_68H.uasset'
+[2019.07.16-21.08.36:512][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P7334B9BA412A2E98E3A0DFA6A14456F3.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP4_WhiteBoardOverhang_42W_68H.uasset'
+[2019.07.16-21.08.36:593][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fabr9FB676AD4E136CCBD4B2B59F38F89F67.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Fabric_8T22_Crossing_Tin.uasset'
+[2019.07.16-21.08.36:691][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniEAEB15A942725125DDD4118B2BA8F28A.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_63_Fog.uasset'
+[2019.07.16-21.08.36:764][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniF6C7CD634E69E90D82FC1F86A7445633.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_8Q_Folkstone_Grey.uasset'
+[2019.07.16-21.08.36:845][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini0311B7B6471676B9604F7182B0E6E1D1.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_91_White.uasset'
+[2019.07.16-21.08.36:928][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini8E9E94054EAF2B18ED7308882EEA4E3D.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_AN_Anodized_Aluminum.uasset'
+[2019.07.16-21.08.37:009][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini087F170B47DC78DCF838CBA30F736BCF.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_AN_Anodized_Silver.uasset'
+[2019.07.16-21.08.37:096][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini864B13A641F6CF77A1D43BA176E1E881.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_G1_Graphite.uasset'
+[2019.07.16-21.08.37:181][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini71CA2F3A4ECE77809DC1569790EF0018.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_L7_H-alloy.uasset'
+[2019.07.16-21.08.37:260][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini21186D1C4EAB53C0C0032CB72FC7D8E2.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_L7_H-Alloy__1_.uasset'
+[2019.07.16-21.08.37:347][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini725389E54F3E9E9D11E1A699C762DE5A.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_L_Polished_Aluminum.uasset'
+[2019.07.16-21.08.37:494][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniDCA09FE84CB90D2DB8B30EB02A846A35.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_MS_Metallic_Silver.uasset'
+[2019.07.16-21.08.37:582][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini0D5AB78242C81B51600E168DCB058D34.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_SG_Slate_Grey.uasset'
+[2019.07.16-21.08.37:773][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniABCA120E4CE308C3E94AD495C4EB0E4E.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_White_Acrylis.uasset'
+[2019.07.16-21.08.37:860][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Lami7DD4BBA642AB449E878FFDAB18752AD9.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Laminate_91_White.uasset'
+[2019.07.16-21.08.37:944][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Lami8DA3762D4DE38C332B316BBD0FB553EC.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Laminate_BK_Black.uasset'
+[2019.07.16-21.08.38:025][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Syst469A5E09480DB32E53D0F0A23D6C39E0.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_System_Fabric_8T18_Crossing_Indigo.uasset'
+[2019.07.16-21.08.38:109][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Vene74F50F6744606EC9061825B313EF3A36.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Cove_020-Option_A/Materials/Unsupported_Herman_Miller_-_Veneer_Plywood_Edge.uasset'
+[2019.07.16-21.08.38:252][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P7F8B5CDD494F540EA89CF8A8B1D11D05.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD1_Desk_Lam_29D_75W_29H_Power_Access_Bin_Right_Doors.uasset'
+[2019.07.16-21.08.38:359][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P9AFA71E9453BE409EF707C8170BB2AAE.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD2_ConnectingBin_Lam_17D_29W_29H_No_Doors.uasset'
+[2019.07.16-21.08.38:459][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PF8C438B44035751652D0E5956D60C739.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD3_UpperBin_Lam_17D_29W_14H.uasset'
+[2019.07.16-21.08.38:559][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P04BFD8AC481BF03FAF32BC8501277F9C.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD4_DeskAndBinFinishingKit_Single_Kit.uasset'
+[2019.07.16-21.08.38:653][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P4617C0A447A871D0302C7BB570934AC0.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Bin-to-Bin_Ganging_Plate.uasset'
+[2019.07.16-21.08.38:728][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P986327CF4E8DBC7AFCD62A9CBCB44A5B.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVD5_DeskAndBinGangingPlate_Connecting_Bin_Ganging_Kit.uasset'
+[2019.07.16-21.08.38:873][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P7952F27240A7B326AF2120B3A0934680.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_Legs.uasset'
+[2019.07.16-21.08.38:879][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Furniture/Hive_070/Hive_070" FILE="../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Hive_070.uasset" SILENT=true
+[2019.07.16-21.08.38:973][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Hive_070B5F7C2DF4D47BAFEE79D7E9C093F77B4.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Hive_070.uasset'
+[2019.07.16-21.08.39:047][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini06A1293343F67A63E7A8ACB6056063F7.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Materials/Unsupported_Herman_Miller_-_Finish_8Q_Folkstone_Grey.uasset'
+[2019.07.16-21.08.39:241][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniDBEFB1404D66090CB32B33927CAE8525.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Materials/Unsupported_Herman_Miller_-_Finish_91_White.uasset'
+[2019.07.16-21.08.39:316][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini6B6E16AA48473F850B48AB8D06905D56.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Materials/Unsupported_Herman_Miller_-_Finish_97_Twilight.uasset'
+[2019.07.16-21.08.39:397][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniAD83E95848CB5266711ACBA588A4F1E5.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Materials/Unsupported_Herman_Miller_-_Finish_KQ_Chrome.uasset'
+[2019.07.16-21.08.39:481][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini399523A44D2AB8CAB1E499BA16666EA5.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Materials/Unsupported_Herman_Miller_-_Finish_MS_Metallic_Silver.uasset'
+[2019.07.16-21.08.39:573][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini722C9D4B4BF63049E3CC6A9D7F6BDE96.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Materials/Unsupported_Herman_Miller_-_Finish_SG_Slate_Grey.uasset'
+[2019.07.16-21.08.39:654][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Lami316BF2CA48FC9804458161A57C3E76A1.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Materials/Unsupported_Herman_Miller_-_Laminate_91_White.uasset'
+[2019.07.16-21.08.39:858][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Netw2FBAD8BA409071BFF252ACA090224160.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Materials/Unsupported_Herman_Miller_-_Network_Fabric_1A906_Twilight.uasset'
+[2019.07.16-21.08.39:944][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Syst3204813347B0D8138543C6B7315377A6.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Hive_070/Materials/Unsupported_Herman_Miller_-_System_Fabric_8R15_Twist_Shale.uasset'
+[2019.07.16-21.08.40:085][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P8401CE334A10F76DC9162496E01C72C7.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs.uasset'
+[2019.07.16-21.08.40:207][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PA19C585E4789F2C570D802BF32423721.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs.uasset'
+[2019.07.16-21.08.40:294][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PCD7914444F14F8C11C48E3A4D6197493.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Four_Chairs.uasset'
+[2019.07.16-21.08.40:491][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P70E6A95C4342FBCA882FE799EF26ABFE.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair.uasset'
+[2019.07.16-21.08.40:611][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PD05D222944C5456D2F79F58EB7B24271.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs.uasset'
+[2019.07.16-21.08.40:741][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P3D280182452A3B4D2ED74B8F10265863.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Geometries/Furniture_Systems_HermanMiller_Public_BVT3_DoubleCafeTable_Lam_29D_58W_17H_Power_Access.uasset'
+[2019.07.16-21.08.40:776][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Jump_Space_01504D362DB425B143083328D9D71735D97.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Jump_Space_015.uasset'
+[2019.07.16-21.08.40:855][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniA4DACAD94F2BA736A16627A6ABF8615D.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Materials/Unsupported_Herman_Miller_-_Finish_8Q_Folkstone_Grey.uasset'
+[2019.07.16-21.08.40:972][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini0FE0E0AB4D7FCE3BCF251493C26CB6FA.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Materials/Unsupported_Herman_Miller_-_Finish_91_White.uasset'
+[2019.07.16-21.08.41:058][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini794990804D63F62C165753B2BCEDA2F8.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Materials/Unsupported_Herman_Miller_-_Finish_97_Twilight.uasset'
+[2019.07.16-21.08.41:148][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini6842E62844BF4C6FA63947B383DB385E.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Materials/Unsupported_Herman_Miller_-_Finish_MS_Metallic_Silver.uasset'
+[2019.07.16-21.08.41:261][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Lami3BFF35794D3CB8AB5F4F188A5208C9D2.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Materials/Unsupported_Herman_Miller_-_Laminate_91_White.uasset'
+[2019.07.16-21.08.41:364][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_NetwF627D79A493A4F5B10C492956745D682.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Materials/Unsupported_Herman_Miller_-_Network_Fabric_1A906_Twilight.uasset'
+[2019.07.16-21.08.41:443][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Syst22EECC84494A626B96921ABADEFE4204.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Jump_Space_015/Materials/Unsupported_Herman_Miller_-_System_Fabric_8R15_Twist_Shale.uasset'
+[2019.07.16-21.08.41:691][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_Seating_SA7628FDA411D43C9447F0F8B16616ED5.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_HermanMiller_Seating_Swoop_OA300_WorkTable_Lam_16_Dia.uasset'
+[2019.07.16-21.08.41:947][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P65E2952944CF9F89B290189156156740.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Left_No_Legs.uasset'
+[2019.07.16-21.08.42:056][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P1900632146DC663A8B52DDB11E3DEF9A.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS1N_SocialChair_Right_No_Legs.uasset'
+[2019.07.16-21.08.42:256][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PB4943FAF404E4EB843CEE49C903D4376.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Left.uasset'
+[2019.07.16-21.08.42:404][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P487C4B4D4B1EB79C948A8BB11F260984.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Right.uasset'
+[2019.07.16-21.08.42:611][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PEF44FE82491D8D0F0EE9B195C601290B.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Straight.uasset'
+[2019.07.16-21.08.42:734][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P2A353CE1487B3F473B4CDE87689B76BE.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Four_Chairs.uasset'
+[2019.07.16-21.08.42:842][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PF4B6963A457EA8C70162B49C3A9D834C.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair.uasset'
+[2019.07.16-21.08.42:945][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PA9A6894242C33D126F5B6B8492F10823.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Three_Chairs.uasset'
+[2019.07.16-21.08.43:195][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P9794082945C97AE4145A0B9259DF2C9D.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs.uasset'
+[2019.07.16-21.08.43:318][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P8171BD154D27CB0521EE01BFB28FB419.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS4_SectionalSeatBackGangingKit_2_Seat_Kit.uasset'
+[2019.07.16-21.08.43:439][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PB8B1A420414F8691D0E0598278475F9E.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVT1_SingleCafeTable_Lam_29D_29W_18H_No_Power_Access.uasset'
+[2019.07.16-21.08.43:490][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Landing_010-Option_A3158D47243C65A1BB4F8C496D5D375D3.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Landing_010-Option_A.uasset'
+[2019.07.16-21.08.43:573][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Fallback_Color32A53411484C648FE8C45BA50A2CA169.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Materials/Fallback_Color.uasset'
+[2019.07.16-21.08.43:648][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini2CB7E9644078C87B9FAD3399AB6F5AAA.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_47_Trivalent_Chrome.uasset'
+[2019.07.16-21.08.43:757][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniB0C7DA2D43B98F3DCB94F388FC6A8594.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_8Q_Folkstone_Grey.uasset'
+[2019.07.16-21.08.43:858][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniFAA8C3144870856F461F61A63EF64C9A.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_91_White.uasset'
+[2019.07.16-21.08.43:949][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniF31F54B64E7890D373E7079284DD9F66.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_97_Twilight.uasset'
+[2019.07.16-21.08.44:053][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini45E5BE9749C558C0E2200091ECE8485E.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_MS_Metallic_Silver.uasset'
+[2019.07.16-21.08.44:166][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_LamiD2C2F17F4AE931AB952157B3EBB3726C.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Materials/Unsupported_Herman_Miller_-_Laminate_91_White.uasset'
+[2019.07.16-21.08.44:335][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_MS_M2335557D4DD430499137058FD27E3B84.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Materials/Unsupported_Herman_Miller_-_MS_Metallic_Silver.uasset'
+[2019.07.16-21.08.44:465][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_NetwBC31FEB74FCC8CD969897AB7A04B6A01.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Materials/Unsupported_Herman_Miller_-_Network_Fabric_1A906_Twilight.uasset'
+[2019.07.16-21.08.44:545][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Syst622AB8BA4835BA45A109C291786D646B.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Materials/Unsupported_Herman_Miller_-_System_Fabric_8R15_Twist_Shale.uasset'
+[2019.07.16-21.08.44:635][207]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_VeneB924DADB41FBDFF893BC47BC186B829E.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Landing_010-Option_A/Materials/Unsupported_Herman_Miller_-_Veneer_Plywood_Edge.uasset'
+[2019.07.16-21.08.44:642][207]Cmd: MAP LOAD FILE="../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.16-21.08.44:643][207]LightingResults: New page: Lighting Build
+[2019.07.16-21.08.44:643][207]LoadErrors: New page: Loading map: ThirdPersonExampleMap1.umap
+[2019.07.16-21.08.44:647][207]MapCheck: New page: Map Check
+[2019.07.16-21.08.44:647][207]LightingResults: New page: Lighting Build
+[2019.07.16-21.08.44:690][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.07.16-21.08.44:738][207]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.16-21.08.44:784][207]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.07.16-21.08.44:824][207]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.16-21.08.44:827][207]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.796ms to complete.
+[2019.07.16-21.08.44:827][207]LogFileHelpers: Loading map 'ThirdPersonExampleMap1' took 0.185
+[2019.07.16-21.08.52:107][483]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2019.07.16-21.08.58:924][795]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (Preview)
+[2019.07.16-21.09.01:721][871]Cmd: DELETE
+[2019.07.16-21.09.01:721][871]Cmd: ACTOR DELETE
+[2019.07.16-21.09.01:737][871]LogEditorActor: Deleted Actor: CineCameraActor
+[2019.07.16-21.09.01:818][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.07.16-21.09.01:819][871]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2019.07.16-21.09.09:921][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.16-21.09.33:687][204]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.093 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.16-21.09.53:428][833]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.16-21.09.53:461][833]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.07.16-21.09.53:461][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.16-21.09.53:461][833]PIE: New page: PIE session: ThirdPersonExampleMap1 (Jul 16, 2019, 1:09:53 PM)
+[2019.07.16-21.09.53:477][833]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap1
+[2019.07.16-21.09.53:561][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083238s)
+[2019.07.16-21.09.53:562][833]LogAIModule: Creating AISystem for world ThirdPersonExampleMap1
+[2019.07.16-21.09.53:563][833]LogPlayLevel: PIE: World Init took: (0.002067s)
+[2019.07.16-21.09.53:563][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1 to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap1.ThirdPersonExampleMap1 (0.086046s)
+[2019.07.16-21.09.53:624][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.07.16-21.09.53:638][833]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.16-21.09.53:661][833]LogInit: FAudioDevice initialized.
+[2019.07.16-21.09.53:731][833]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.16-21.09.53:743][833]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap1.ThirdPersonExampleMap1 up for play (max tick rate 0) at 2019.07.16-17.09.53
+[2019.07.16-21.09.53:744][833]LogWorld: Bringing up level for play took: 0.009430
+[2019.07.16-21.09.53:783][833]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.07.16-21.09.53:785][833]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap1 -0.095
+[2019.07.16-21.09.53:785][833]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.07.16-21.10.02:488][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.07.16-21.10.02:489][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.16-21.10.02:542][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.16-21.10.02:542][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.07.16-21.10.02:595][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.16-21.10.02:607][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.07.16-21.10.02:636][288]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.07.16-21.10.04:214][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.07.16-21.10.04:786][358]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/ThirdPersonExampleMap15A6FAFC94F879CEFD9C0AAA5274B1741.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap1.umap'
+[2019.07.16-21.10.05:090][358]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/ThirdPersonExampleMap1_BuiltDataE4620DC64F80AECEE0874D913D2E21F2.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap1_BuiltData.uasset'
+[2019.07.16-21.10.08:142][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.07.16-21.10.08:246][511]LogSlate: Window 'FloorPlanDemo2 - Unreal Editor' being destroyed
+[2019.07.16-21.10.08:550][512]Cmd: QUIT_EDITOR
+[2019.07.16-21.10.08:792][512]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.16-21.10.08:830][512]LogExit: Preparing to exit.
+[2019.07.16-21.10.09:369][512]LogExit: Editor shut down
+[2019.07.16-21.10.09:369][512]LogExit: Transaction tracking system shut down
+[2019.07.16-21.10.09:750][512]LogExit: Object subsystem successfully closed.
+[2019.07.16-21.10.09:798][512]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.07.16-21.10.09:806][512]LogD3D11RHI: Shutdown
+[2019.07.16-21.10.09:806][512]LogD3D11RHI: CleanupD3DDevice
+[2019.07.16-21.10.09:808][512]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.16-21.10.09:808][512]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.16-21.10.09:808][512]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.16-21.10.09:808][512]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.16-21.10.09:808][512]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.16-21.10.09:808][512]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.16-21.10.10:232][512]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.07.16-21.10.10:299][512]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (690)
+[2019.07.16-21.10.10:299][512]LogModuleManager: Shutting down and abandoning module Voice (688)
+[2019.07.16-21.10.10:299][512]LogModuleManager: Shutting down and abandoning module MeshBuilder (686)
+[2019.07.16-21.10.10:299][512]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (684)
+[2019.07.16-21.10.10:299][512]LogModuleManager: Shutting down and abandoning module SceneOutliner (682)
+[2019.07.16-21.10.10:299][512]LogModuleManager: Shutting down and abandoning module AddContentDialog (680)
+[2019.07.16-21.10.10:300][512]LogModuleManager: Shutting down and abandoning module WidgetCarousel (679)
+[2019.07.16-21.10.10:300][512]LogModuleManager: Shutting down and abandoning module EditorWidgets (676)
+[2019.07.16-21.10.10:300][512]LogModuleManager: Shutting down and abandoning module CollectionManager (674)
+[2019.07.16-21.10.10:300][512]LogModuleManager: Shutting down and abandoning module StatsViewer (672)
+[2019.07.16-21.10.10:300][512]LogModuleManager: Shutting down and abandoning module FoliageEdit (670)
+[2019.07.16-21.10.10:300][512]LogModuleManager: Shutting down and abandoning module LandscapeEditor (668)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module MeshPaintMode (666)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (664)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module ActorPickerMode (662)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module GeometryMode (660)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module TextureAlignMode (658)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module BspMode (656)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (654)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (652)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module AutomationWorker (650)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (648)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (646)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (644)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module OculusMR (642)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (640)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (638)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (636)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module PlacementMode (635)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module MaterialEditor (634)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (630)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (628)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (626)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (624)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (622)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module WebMMedia (620)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (618)
+[2019.07.16-21.10.10:301][512]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (616)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module SequenceRecorder (615)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (612)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (610)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (608)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (606)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (604)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (602)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (600)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (598)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (596)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (594)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (592)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module CharacterAI (590)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module SmartSnapping (588)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module SessionServices (586)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module MeshPaint (584)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module ViewportSnapping (582)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module ViewportInteraction (580)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module ClothPainter (578)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (577)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module LogVisualizer (574)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module IntroTutorials (572)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (571)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (568)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (566)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (564)
+[2019.07.16-21.10.10:302][512]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (562)
+[2019.07.16-21.10.10:303][512]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (561)
+[2019.07.16-21.10.11:299][512]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (558)
+[2019.07.16-21.10.11:299][512]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (556)
+[2019.07.16-21.10.11:299][512]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (554)
+[2019.07.16-21.10.11:299][512]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (552)
+[2019.07.16-21.10.11:299][512]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (550)
+[2019.07.16-21.10.11:299][512]LogModuleManager: Shutting down and abandoning module InputBindingEditor (548)
+[2019.07.16-21.10.11:299][512]LogModuleManager: Shutting down and abandoning module MergeActors (546)
+[2019.07.16-21.10.11:299][512]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (544)
+[2019.07.16-21.10.11:299][512]LogModuleManager: Shutting down and abandoning module LocalizationService (543)
+[2019.07.16-21.10.11:300][512]LogModuleManager: Shutting down and abandoning module HardwareTargeting (540)
+[2019.07.16-21.10.11:300][512]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (538)
+[2019.07.16-21.10.11:300][512]LogModuleManager: Shutting down and abandoning module UndoHistory (536)
+[2019.07.16-21.10.11:300][512]LogModuleManager: Shutting down and abandoning module XmlParser (534)
+[2019.07.16-21.10.11:300][512]LogModuleManager: Shutting down and abandoning module Blutility (532)
+[2019.07.16-21.10.11:300][512]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (530)
+[2019.07.16-21.10.11:300][512]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (529)
+[2019.07.16-21.10.11:300][512]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (526)
+[2019.07.16-21.10.11:316][512]LogModuleManager: Shutting down and abandoning module SettingsEditor (524)
+[2019.07.16-21.10.11:316][512]LogModuleManager: Shutting down and abandoning module ProjectLauncher (522)
+[2019.07.16-21.10.11:317][512]LogModuleManager: Shutting down and abandoning module SessionFrontend (520)
+[2019.07.16-21.10.11:317][512]LogModuleManager: Shutting down and abandoning module ProfilerClient (518)
+[2019.07.16-21.10.11:317][512]LogModuleManager: Shutting down and abandoning module DeviceManager (516)
+[2019.07.16-21.10.11:317][512]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (515)
+[2019.07.16-21.10.11:362][512]LogModuleManager: Shutting down and abandoning module AutomationController (512)
+[2019.07.16-21.10.11:363][512]LogModuleManager: Shutting down and abandoning module AutomationWindow (510)
+[2019.07.16-21.10.11:363][512]LogModuleManager: Shutting down and abandoning module Layers (508)
+[2019.07.16-21.10.11:363][512]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (506)
+[2019.07.16-21.10.11:363][512]LogModuleManager: Shutting down and abandoning module DetailCustomizations (504)
+[2019.07.16-21.10.11:363][512]LogModuleManager: Shutting down and abandoning module PackagesDialog (502)
+[2019.07.16-21.10.11:363][512]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (500)
+[2019.07.16-21.10.11:364][512]LogModuleManager: Shutting down and abandoning module Persona (498)
+[2019.07.16-21.10.11:364][512]LogModuleManager: Shutting down and abandoning module AnimGraph (497)
+[2019.07.16-21.10.11:364][512]LogModuleManager: Shutting down and abandoning module Kismet (494)
+[2019.07.16-21.10.11:364][512]LogModuleManager: Shutting down and abandoning module GraphEditor (492)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module ClassViewer (490)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module Toolbox (488)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module ModuleUI (486)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module MovieSceneTools (484)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module OutputLog (482)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module GammaUI (480)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module Documentation (478)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module LiveCoding (476)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module LevelSequence (474)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (472)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module MovieScene (470)
+[2019.07.16-21.10.11:365][512]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (468)
+[2019.07.16-21.10.11:366][512]LogModuleManager: Shutting down and abandoning module LauncherPlatform (466)
+[2019.07.16-21.10.11:366][512]LogModuleManager: Shutting down and abandoning module AnalyticsET (464)
+[2019.07.16-21.10.11:366][512]LogModuleManager: Shutting down and abandoning module PortalServices (462)
+[2019.07.16-21.10.11:366][512]LogModuleManager: Shutting down and abandoning module PortalRpc (460)
+[2019.07.16-21.10.11:366][512]LogModuleManager: Shutting down and abandoning module MessagingRpc (458)
+[2019.07.16-21.10.11:366][512]LogModuleManager: Shutting down and abandoning module AIModule (456)
+[2019.07.16-21.10.11:366][512]LogModuleManager: Shutting down and abandoning module GameplayDebugger (455)
+[2019.07.16-21.10.11:366][512]LogModuleManager: Shutting down and abandoning module AITestSuite (453)
+[2019.07.16-21.10.11:366][512]LogModuleManager: Shutting down and abandoning module NavigationSystem (451)
+[2019.07.16-21.10.11:366][512]LogModuleManager: Shutting down and abandoning module DesktopPlatform (448)
+[2019.07.16-21.10.11:366][512]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (446)
+[2019.07.16-21.10.11:385][512]LogModuleManager: Shutting down and abandoning module ProfilerService (444)
+[2019.07.16-21.10.11:501][512]LogModuleManager: Shutting down and abandoning module TaskGraph (442)
+[2019.07.16-21.10.11:501][512]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (440)
+[2019.07.16-21.10.11:505][512]LogModuleManager: Shutting down and abandoning module VariantManager (438)
+[2019.07.16-21.10.11:505][512]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (436)
+[2019.07.16-21.10.11:505][512]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (435)
+[2019.07.16-21.10.11:505][512]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (434)
+[2019.07.16-21.10.11:505][512]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (431)
+[2019.07.16-21.10.11:505][512]LogModuleManager: Shutting down and abandoning module MDLImporter (428)
+[2019.07.16-21.10.11:506][512]LogModuleManager: Shutting down and abandoning module DatasmithGLTFImporter (426)
+[2019.07.16-21.10.11:506][512]LogModuleManager: Shutting down and abandoning module DatasmithImporter (425)
+[2019.07.16-21.10.11:506][512]LogModuleManager: Shutting down and abandoning module DatasmithDataPrepLibraries (422)
+[2019.07.16-21.10.11:506][512]LogModuleManager: Shutting down and abandoning module DatasmithDataPrepEditor (420)
+[2019.07.16-21.10.11:506][512]LogModuleManager: Shutting down and abandoning module SteamVRController (418)
+[2019.07.16-21.10.11:506][512]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (416)
+[2019.07.16-21.10.11:506][512]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (414)
+[2019.07.16-21.10.11:506][512]LogModuleManager: Shutting down and abandoning module OculusEditor (412)
+[2019.07.16-21.10.11:506][512]LogModuleManager: Shutting down and abandoning module OculusInput (410)
+[2019.07.16-21.10.11:506][512]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (408)
+[2019.07.16-21.10.11:506][512]LogModuleManager: Shutting down and abandoning module EditableMesh (406)
+[2019.07.16-21.10.11:507][512]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (404)
+[2019.07.16-21.10.11:507][512]LogModuleManager: Shutting down and abandoning module CableComponent (402)
+[2019.07.16-21.10.11:507][512]LogModuleManager: Shutting down and abandoning module AudioCapture (400)
+[2019.07.16-21.10.11:507][512]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (398)
+[2019.07.16-21.10.11:507][512]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2019.07.16-21.10.11:507][512]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2019.07.16-21.10.11:507][512]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2019.07.16-21.10.11:507][512]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2019.07.16-21.10.11:507][512]LogModuleManager: Shutting down and abandoning module LinearTimecode (388)
+[2019.07.16-21.10.11:507][512]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (376)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (374)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (372)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (370)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (368)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module BlastAuthoring (366)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module BackChannel (364)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module AppleVision (362)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (360)
+[2019.07.16-21.10.11:508][512]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2019.07.16-21.10.11:509][512]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2019.07.16-21.10.11:509][512]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2019.07.16-21.10.11:509][512]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2019.07.16-21.10.11:509][512]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2019.07.16-21.10.11:509][512]LogModuleManager: Shutting down and abandoning module VariantManagerContent (348)
+[2019.07.16-21.10.11:509][512]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2019.07.16-21.10.11:511][512]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2019.07.16-21.10.11:512][512]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2019.07.16-21.10.11:512][512]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2019.07.16-21.10.11:512][512]LogModuleManager: Shutting down and abandoning module PolygonModeling (338)
+[2019.07.16-21.10.11:512][512]LogModuleManager: Shutting down and abandoning module MeshEditor (336)
+[2019.07.16-21.10.11:513][512]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (334)
+[2019.07.16-21.10.11:513][512]LogModuleManager: Shutting down and abandoning module GLTFImporter (332)
+[2019.07.16-21.10.11:513][512]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (330)
+[2019.07.16-21.10.11:513][512]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.07.16-21.10.11:513][512]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.07.16-21.10.11:513][512]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.07.16-21.10.11:514][512]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.07.16-21.10.11:514][512]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.07.16-21.10.11:514][512]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.07.16-21.10.11:514][512]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.07.16-21.10.11:514][512]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.07.16-21.10.11:514][512]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.07.16-21.10.11:514][512]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.07.16-21.10.11:514][512]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.07.16-21.10.11:514][512]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.07.16-21.10.11:514][512]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.07.16-21.10.11:514][512]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.07.16-21.10.11:515][512]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.07.16-21.10.11:515][512]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.07.16-21.10.11:515][512]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.07.16-21.10.11:515][512]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.07.16-21.10.11:515][512]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.07.16-21.10.11:515][512]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.07.16-21.10.11:515][512]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.07.16-21.10.11:515][512]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.07.16-21.10.11:515][512]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.07.16-21.10.11:515][512]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.07.16-21.10.11:616][512]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.07.16-21.10.11:737][512]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.07.16-21.10.11:737][512]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.07.16-21.10.11:737][512]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.07.16-21.10.11:738][512]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.07.16-21.10.11:738][512]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.07.16-21.10.11:739][512]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.07.16-21.10.11:739][512]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.07.16-21.10.11:739][512]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.07.16-21.10.11:739][512]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.07.16-21.10.11:739][512]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.07.16-21.10.11:739][512]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.07.16-21.10.11:739][512]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.07.16-21.10.11:739][512]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.07.16-21.10.11:740][512]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.07.16-21.10.11:759][512]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.07.16-21.10.11:759][512]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.07.16-21.10.11:759][512]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.07.16-21.10.11:760][512]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.07.16-21.10.11:768][512]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.07.16-21.10.11:772][512]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.07.16-21.10.11:772][512]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.07.16-21.10.11:772][512]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.07.16-21.10.11:772][512]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.07.16-21.10.11:772][512]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.07.16-21.10.11:772][512]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.07.16-21.10.11:773][512]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.07.16-21.10.11:774][512]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.07.16-21.10.11:774][512]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.07.16-21.10.11:774][512]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.07.16-21.10.11:775][512]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.07.16-21.10.11:776][512]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.07.16-21.10.11:776][512]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.07.16-21.10.11:776][512]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.07.16-21.10.11:782][512]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.07.16-21.10.11:782][512]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.07.16-21.10.11:782][512]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.07.16-21.10.11:782][512]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.07.16-21.10.11:783][512]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.07.16-21.10.11:785][512]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.07.16-21.10.11:785][512]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.07.16-21.10.11:785][512]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.07.16-21.10.11:785][512]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.07.16-21.10.11:785][512]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.07.16-21.10.11:785][512]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.07.16-21.10.11:786][512]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.07.16-21.10.11:786][512]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.07.16-21.10.11:786][512]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.07.16-21.10.11:786][512]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.07.16-21.10.11:786][512]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.07.16-21.10.11:854][512]LogDerivedDataCache: Shutdown
+[2019.07.16-21.10.11:854][512]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.07.16-21.10.11:854][512]LogXGEController: Cleaning working directory: C:/Users/carla/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.07.16-21.10.11:855][512]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.07.16-21.10.11:856][512]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.07.16-21.10.11:856][512]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.07.16-21.10.11:856][512]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.07.16-21.10.11:856][512]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.07.16-21.10.11:865][512]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.07.16-21.10.11:865][512]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.07.16-21.10.11:865][512]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.07.16-21.10.11:865][512]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.07.16-21.10.11:865][512]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.07.16-21.10.11:866][512]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.07.16-21.10.11:866][512]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.07.16-21.10.11:868][512]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.07.16-21.10.11:868][512]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.07.16-21.10.11:889][512]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.07.16-21.10.11:889][512]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.07.16-21.10.11:889][512]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.07.16-21.10.11:889][512]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.07.16-21.10.11:889][512]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.07.16-21.10.11:889][512]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.07.16-21.10.11:889][512]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.07.16-21.10.11:890][512]LogHMD: Freeing OpenVRDLLHandle.
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.07.16-21.10.11:890][512]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.07.16-21.10.11:892][512]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.07.16-21.10.11:902][512]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.07.16-21.10.11:926][512]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.07.16-21.10.11:926][512]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.07.16-21.10.11:926][512]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4D202D10-4F40-31AA-7E53-19B14B7AF613%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6368017e496ec0355375c3baf16aadb7%7Cff563bfa1e2b42f3b3a11d84fca4cb38%7C187ac642-85ee-44bd-9867-23fa74089cb6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.07.16-21.10.11:937][512]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.07.16-21.10.11:940][512]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.07.16-21.10.11:981][512]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.07.16-21.10.12:004][512]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.07.16-21.10.12:004][512]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.07.16-21.10.12:005][512]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.07.16-21.10.12:006][512]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.07.16-21.10.12:006][512]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.07.16-21.10.12:007][512]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.07.16-21.10.12:009][512]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.07.16-21.10.12:010][512]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.07.16-21.10.12:010][512]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.07.16-21.10.12:012][512]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.07.16-21.10.12:012][512]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.07.16-21.10.12:012][512]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.07.16-21.10.12:012][512]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.07.16-21.10.12:012][512]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.07.16-21.10.12:012][512]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.07.16-21.10.12:012][512]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.07.16-21.10.12:012][512]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.07.16-21.10.12:013][512]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.07.16-21.10.12:013][512]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.07.16-21.10.12:013][512]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.07.16-21.10.12:013][512]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.07.16-21.10.12:068][512]LogExit: Exiting.
+[2019.07.16-21.10.12:129][512]Log file closed, 07/16/19 17:10:12
