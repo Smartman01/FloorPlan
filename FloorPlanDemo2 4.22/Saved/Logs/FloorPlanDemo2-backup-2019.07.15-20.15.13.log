@@ -1,0 +1,1126 @@
+﻿Log file open, 07/15/19 16:07:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FloorPlanDemo2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.372867
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=MottledToast724 -epicuserid=ff563bfa1e2b42f3b3a11d84fca4cb38 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.15-20.07.52:087][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.15-20.07.52:087][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.15-20.07.52:089][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.07.15-20.07.52:089][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.15-20.07.52:089][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.07.15-20.07.52:089][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.07.15-20.07.52:089][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.15-20.07.52:089][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.15-20.07.52:089][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.15-20.07.52:089][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.15-20.07.52:089][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.15-20.07.52:089][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.15-20.07.52:089][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.15-20.07.52:089][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.15-20.07.52:089][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.15-20.07.52:089][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.15-20.07.52:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.07.15-20.07.52:090][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.07.15-20.07.52:102][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.15-20.07.52:103][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.15-20.07.52:104][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.15-20.07.52:105][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.15-20.07.52:106][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.15-20.07.52:107][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.15-20.07.52:107][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.15-20.07.52:107][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:107][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.15-20.07.52:107][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.15-20.07.52:107][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.15-20.07.52:107][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.15-20.07.52:108][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.15-20.07.52:108][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.15-20.07.52:109][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.15-20.07.52:109][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.15-20.07.52:109][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:109][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.15-20.07.52:109][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.15-20.07.52:110][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.15-20.07.52:110][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.15-20.07.52:110][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.15-20.07.52:110][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.15-20.07.52:110][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.15-20.07.52:110][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.15-20.07.52:110][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.15-20.07.52:110][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.15-20.07.52:110][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.15-20.07.52:110][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.15-20.07.52:111][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.15-20.07.52:111][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:111][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.15-20.07.52:111][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.15-20.07.52:111][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.15-20.07.52:111][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.15-20.07.52:176][  0]LogHAL: Display: Platform has ~ 12 GB [12764549120 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.15-20.07.52:176][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.15-20.07.52:176][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.15-20.07.52:177][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:177][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.15-20.07.52:177][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.15-20.07.52:177][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:177][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.15-20.07.52:177][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:178][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.15-20.07.52:178][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.15-20.07.52:178][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.15-20.07.52:178][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.15-20.07.52:178][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.15-20.07.52:178][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.15-20.07.52:178][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.15-20.07.52:178][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.15-20.07.52:178][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.15-20.07.52:179][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.15-20.07.52:180][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.15-20.07.52:181][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:181][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.15-20.07.52:182][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.15-20.07.52:183][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.15-20.07.52:183][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.15-20.07.52:183][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.07.15-20.07.52:185][  0]LogInit: Computer: LAPTOP-2IV3VN8H
+[2019.07.15-20.07.52:185][  0]LogInit: User: carla
+[2019.07.15-20.07.52:185][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.15-20.07.52:185][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.15-20.07.52:186][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2019.07.15-20.07.52:186][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.15-20.07.52:186][  0]LogMemory: Process Physical Memory: 96.13 MB used, 96.14 MB peak
+[2019.07.15-20.07.52:186][  0]LogMemory: Process Virtual Memory: 90.89 MB used, 90.89 MB peak
+[2019.07.15-20.07.52:186][  0]LogMemory: Physical Memory: 6455.13 MB used,  5718.09 MB free, 12173.22 MB total
+[2019.07.15-20.07.52:186][  0]LogMemory: Virtual Memory: 4658.95 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.07.15-20.07.52:327][  0]LogInit: Using OS detected language (en-US).
+[2019.07.15-20.07.52:327][  0]LogInit: Using OS detected locale (en-US).
+[2019.07.15-20.07.52:333][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.07.15-20.07.52:889][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.15-20.07.52:968][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.15-20.07.52:968][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.15-20.07.53:487][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.15-20.07.53:487][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.15-20.07.53:621][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.07.15-20.07.53:621][  0]LogD3D11RHI:       4019/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.15-20.07.53:654][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.07.15-20.07.53:654][  0]LogD3D11RHI:       128/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.07.15-20.07.53:660][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.15-20.07.53:660][  0]LogD3D11RHI:       0/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.15-20.07.53:660][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.15-20.07.53:677][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.15-20.07.53:677][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.07.15-20.07.53:677][  0]LogWindows: EnumDisplayDevices:
+[2019.07.15-20.07.53:677][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.07.15-20.07.53:677][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.07.15-20.07.53:678][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.07.15-20.07.53:679][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.07.15-20.07.53:679][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.07.15-20.07.53:679][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.07.15-20.07.53:679][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.07.15-20.07.53:679][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.07.15-20.07.53:679][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2019.07.15-20.07.53:781][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.15-20.07.53:804][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.15-20.07.53:805][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.15-20.07.53:805][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.15-20.07.53:818][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.07.15-20.07.54:777][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.15-20.07.54:813][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.15-20.07.54:850][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.15-20.07.54:888][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.15-20.07.54:931][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.15-20.07.54:965][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.15-20.07.55:004][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.15-20.07.55:046][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.15-20.07.55:065][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.15-20.07.55:451][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.15-20.07.55:456][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.15-20.07.55:556][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.15-20.07.55:556][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.15-20.07.55:683][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.15-20.07.55:684][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.15-20.07.55:749][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.15-20.07.55:827][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.15-20.07.55:897][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.15-20.07.55:973][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.15-20.07.56:137][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.15-20.07.56:137][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.15-20.07.56:137][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.15-20.07.56:159][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.15-20.07.56:416][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Intermediate/Shaders/WorkingDirectory/27484/).
+[2019.07.15-20.07.56:416][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/carla/AppData/Local/Temp/UnrealShaderWorkingDir/553502BA46C5967DBA583198AF6C19E6/'.
+[2019.07.15-20.07.56:432][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.15-20.07.56:432][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.15-20.07.56:432][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.15-20.07.58:193][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.15-20.07.58:326][  0]LogDerivedDataCache: Loaded boot cache 0.13s 71MB C:/Users/carla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.15-20.07.58:327][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/carla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.15-20.07.58:327][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.15-20.07.58:327][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.15-20.07.58:327][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.15-20.07.58:327][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.15-20.07.58:365][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.15-20.07.58:374][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.07.15-20.07.58:389][  0]LogDerivedDataCache: Using Local data cache path C:/Users/carla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.15-20.07.58:390][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.15-20.07.58:390][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.15-20.07.58:468][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.15-20.07.58:471][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.15-20.07.58:472][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.15-20.07.58:718][  0]LogAssetRegistry: FAssetRegistry took 0.0659 seconds to start up
+[2019.07.15-20.07.59:644][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.15-20.08.00:051][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.15-20.08.00:051][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.15-20.08.00:051][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.15-20.08.00:051][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.15-20.08.00:051][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.15-20.08.00:077][  0]LogNetVersion: FloorPlanDemo2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1413269697)
+[2019.07.15-20.08.01:560][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.324027 seconds
+[2019.07.15-20.08.01:584][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.15-20.08.01:584][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.15-20.08.01:584][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.15-20.08.05:111][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.15-20.08.05:133][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.15-20.08.05:451][  0]SourceControl: Source control is disabled
+[2019.07.15-20.08.05:452][  0]SourceControl: Source control is disabled
+[2019.07.15-20.08.05:462][  0]SourceControl: Source control is disabled
+[2019.07.15-20.08.05:467][  0]SourceControl: Source control is disabled
+[2019.07.15-20.08.06:649][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.15-20.08.06:927][  0]LogOcInput: OculusInput pre-init called
+[2019.07.15-20.08.16:018][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.07.15-20.08.16:018][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.07.15-20.08.16:030][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.07.15-20.08.16:030][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.07.15-20.08.16:417][  0]LogEngine: Initializing Engine...
+[2019.07.15-20.08.16:424][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.15-20.08.16:429][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.07.15-20.08.17:312][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.15-20.08.17:367][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.15-20.08.17:556][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.15-20.08.17:627][  0]LogInit: FAudioDevice initialized.
+[2019.07.15-20.08.17:627][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.15-20.08.17:893][  0]LogDerivedDataCache: Saved boot cache 0.26s 72MB C:/Users/carla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.15-20.08.17:937][  0]LogInit: Texture streaming: Enabled
+[2019.07.15-20.08.18:048][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.15-20.08.18:185][  0]LogInit: Transaction tracking system initialized
+[2019.07.15-20.08.18:301][  0]BlueprintLog: New page: Editor Load
+[2019.07.15-20.08.18:557][  0]LocalizationService: Localization service is disabled
+[2019.07.15-20.08.19:810][  0]LogFileCache: Scanning file cache for directory 'C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/' took 0.04s
+[2019.07.15-20.08.19:810][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.15-20.08.19:810][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.15-20.08.26:759][  0]SourceControl: Source control is disabled
+[2019.07.15-20.08.26:759][  0]Cmd: MAP LOAD FILE="../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.15-20.08.26:760][  0]LightingResults: New page: Lighting Build
+[2019.07.15-20.08.26:770][  0]MapCheck: New page: Map Check
+[2019.07.15-20.08.26:770][  0]LightingResults: New page: Lighting Build
+[2019.07.15-20.08.26:847][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.07.15-20.08.27:958][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.07.15-20.08.27:977][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.15-20.08.28:037][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.07.15-20.08.28:038][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.15-20.08.28:038][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.33ms to complete.
+[2019.07.15-20.08.28:038][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.280
+[2019.07.15-20.08.28:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-20.08.28:406][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-20.08.28:438][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-20.08.28:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.15-20.08.28:511][  0]LogCollectionManager: Loaded 0 collections in 0.012001 seconds
+[2019.07.15-20.08.28:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Collections/' took 0.02s
+[2019.07.15-20.08.28:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Developers/carla/Collections/' took 0.00s
+[2019.07.15-20.08.28:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Collections/' took 0.01s
+[2019.07.15-20.08.28:562][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.07.15-20.08.28:606][  0]LogContentBrowser: Native class hierarchy populated in 0.0436 seconds. Added 2864 classes and 726 folders.
+[2019.07.15-20.08.28:644][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2019.07.15-20.08.28:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:710][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.15-20.08.28:941][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.07.15-20.08.28:953][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2019.07.15-20.08.29:012][  0]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.15-20.08.29:018][  0]LogSlate: Took 0.000395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.15-20.08.29:030][  0]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.15-20.08.29:170][  0]LogRenderer: Reallocating scene render targets to support 908x436 Format 10 NumSamples 1 (Frame:1).
+[2019.07.15-20.08.29:340][  0]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.15-20.08.29:647][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.07.15-20.08.29:647][  0]LogLoad: (Engine Initialization) Total time: 43.70 seconds
+[2019.07.15-20.08.29:647][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.15-20.08.29:989][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.15-20.08.30:185][  2]LogAssetRegistry: Asset discovery search completed in 31.4917 seconds
+[2019.07.15-20.08.30:191][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.07.15-20.08.30:191][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000118 seconds (updated 0 objects)
+[2019.07.15-20.09.45:060][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-20.09.45:218][262]LogSlate: Window 'Plugins' being destroyed
+[2019.07.15-20.09.45:305][262]LogSlate: Window 'Plugins' being destroyed
+[2019.07.15-20.09.45:305][262]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.07.15-20.09.45:306][262]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.22/Enterprise/Plugins/' was aborted.
+[2019.07.15-20.09.47:718][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-20.10.14:116][397]LogSlate: Took 0.000588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.15-20.10.14:312][397]LogAIModule: Creating AISystem for world ThirdPersonExampleMap1
+[2019.07.15-20.10.14:394][397]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap1.ThirdPersonExampleMap1
+[2019.07.15-20.10.14:493][397]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.07.15-20.10.14:495][397]Cmd: MAP LOAD FILE="../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.15-20.10.14:495][397]LightingResults: New page: Lighting Build
+[2019.07.15-20.10.14:496][397]LoadErrors: New page: Loading map: ThirdPersonExampleMap1.umap
+[2019.07.15-20.10.14:498][397]MapCheck: New page: Map Check
+[2019.07.15-20.10.14:498][397]LightingResults: New page: Lighting Build
+[2019.07.15-20.10.14:562][397]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.07.15-20.10.14:572][397]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.15-20.10.14:638][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.07.15-20.10.14:686][397]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.15-20.10.14:687][397]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.319ms to complete.
+[2019.07.15-20.10.14:687][397]LogFileHelpers: Loading map 'ThirdPersonExampleMap1' took 0.193
+[2019.07.15-20.10.53:883][459]LogSlate: Window 'Choose Location for importing the Datasmith content' being destroyed
+[2019.07.15-20.10.54:020][459]LogFactory: FactoryCreateFile: Material with DatasmithImportFactory (0 0 ../../../../../../Users/carla/Downloads/Revit_HermanMiller_Typicals_Public_Office_Landscape/Plaza_006-Option_A.udatasmith)
+[2019.07.15-20.10.58:052][459]LogSlate: Window 'Datasmith Import Options' being destroyed
+[2019.07.15-20.10.58:286][459]LogLinker: Warning: Can't find file '/Game/Furniture/Plaza_006-Option_A/Plaza_006-Option_A'
+[2019.07.15-20.10.58:289][459]LogUObjectGlobals: Warning: Failed to find object 'Object None./Game/Furniture/Plaza_006-Option_A/Plaza_006-Option_A'
+[2019.07.15-20.11.02:875][459]LogMaterial: Display: Missing cached shader map for material RevitMaster, compiling. 
+[2019.07.15-20.11.03:849][459]LogStaticMesh: Building static mesh Furniture_HermanMiller_Seating_Setu_MultipurposeChair_Suspended_Upholstery_Ribbon_Arms_5-Star_Base_Standard_Height_Range_w__Casters...
+[2019.07.15-20.11.04:097][459]LogStaticMesh: Built static mesh [0.27s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Seating_Setu_MultipurposeChair_Suspended_Upholstery_Ribbon_Arms_5-Star_Base_Standard_Height_Range_w__Casters.Furniture_HermanMiller_Seating_Setu_MultipurposeChair_Suspended_Upholstery_Ribbon_Arms_5-Star_Base_Standard_Height_Range_w__Casters
+[2019.07.15-20.11.04:209][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip...
+[2019.07.15-20.11.04:210][459]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip.Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip
+[2019.07.15-20.11.04:330][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS4_SectionalSeatBackGangingKit_2_Seat_Kit...
+[2019.07.15-20.11.04:334][459]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS4_SectionalSeatBackGangingKit_2_Seat_Kit.Furniture_Systems_HermanMiller_Public_BVS4_SectionalSeatBackGangingKit_2_Seat_Kit
+[2019.07.15-20.11.04:345][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Three_Chairs...
+[2019.07.15-20.11.04:357][459]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Three_Chairs.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Three_Chairs
+[2019.07.15-20.11.04:419][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs...
+[2019.07.15-20.11.04:428][459]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs
+[2019.07.15-20.11.04:539][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair...
+[2019.07.15-20.11.04:544][459]LogStaticMesh: Built static mesh [0.10s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair.Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair
+[2019.07.15-20.11.04:557][459]LogStaticMesh: Building static mesh Furniture_HermanMiller_Collection_Eames_MoldedSideChair_Non_Upholstered_Wood_Dowel_Base...
+[2019.07.15-20.11.04:839][459]LogStaticMesh: Built static mesh [0.28s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Collection_Eames_MoldedSideChair_Non_Upholstered_Wood_Dowel_Base.Furniture_HermanMiller_Collection_Eames_MoldedSideChair_Non_Upholstered_Wood_Dowel_Base
+[2019.07.15-20.11.05:010][459]LogStaticMesh: Building static mesh Furniture_HermanMiller_TablesandFurniture_DT1BS_EverywhereSquareTable_4-ColumnBase_Lam_42D_42W_4-Column_Base...
+[2019.07.15-20.11.05:024][459]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_TablesandFurniture_DT1BS_EverywhereSquareTable_4-ColumnBase_Lam_42D_42W_4-Column_Base.Furniture_HermanMiller_TablesandFurniture_DT1BS_EverywhereSquareTable_4-ColumnBase_Lam_42D_42W_4-Column_Base
+[2019.07.15-20.11.05:076][459]LogStaticMesh: Building static mesh Furniture_HermanMiller_Collection_SheSaidStool_High_Height...
+[2019.07.15-20.11.05:089][459]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Collection_SheSaidStool_High_Height.Furniture_HermanMiller_Collection_SheSaidStool_High_Height
+[2019.07.15-20.11.05:500][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_29W_54H_Fabric...
+[2019.07.15-20.11.05:567][459]LogStaticMesh: Built static mesh [0.07s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_29W_54H_Fabric.Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_29W_54H_Fabric
+[2019.07.15-20.11.05:635][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Left...
+[2019.07.15-20.11.05:678][459]LogStaticMesh: Built static mesh [0.06s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Left.Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Left
+[2019.07.15-20.11.05:850][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Straight...
+[2019.07.15-20.11.05:890][459]LogStaticMesh: Built static mesh [0.06s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Straight.Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Straight
+[2019.07.15-20.11.05:954][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Right...
+[2019.07.15-20.11.06:001][459]LogStaticMesh: Built static mesh [0.05s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Right.Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Right
+[2019.07.15-20.11.06:202][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FW130_EndSupportOpen_Double-Sided_60_D...
+[2019.07.15-20.11.06:207][459]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW130_EndSupportOpen_Double-Sided_60_D.Furniture_Systems_HermanMiller_CanvasBeam-Based_FW130_EndSupportOpen_Double-Sided_60_D
+[2019.07.15-20.11.06:279][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FW120_FW121_BeamSection_Double-Sided_60_D_x_60_W...
+[2019.07.15-20.11.06:283][459]LogStaticMesh: Built static mesh [0.04s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW120_FW121_BeamSection_Double-Sided_60_D_x_60_W.Furniture_Systems_HermanMiller_CanvasBeam-Based_FW120_FW121_BeamSection_Double-Sided_60_D_x_60_W
+[2019.07.15-20.11.06:422][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FW123_BeamConnector_Double-Sided...
+[2019.07.15-20.11.06:423][459]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW123_BeamConnector_Double-Sided.Furniture_Systems_HermanMiller_CanvasBeam-Based_FW123_BeamConnector_Double-Sided
+[2019.07.15-20.11.06:511][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10E_RectangularSurfaceEndPosition_Lam_24_D_x_63_W...
+[2019.07.15-20.11.06:512][459]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10E_RectangularSurfaceEndPosition_Lam_24_D_x_63_W.Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10E_RectangularSurfaceEndPosition_Lam_24_D_x_63_W
+[2019.07.15-20.11.06:535][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10M_RectangluarSurfaceMiddle_Lam_24_D_x_60_W...
+[2019.07.15-20.11.06:535][459]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10M_RectangluarSurfaceMiddle_Lam_24_D_x_60_W.Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10M_RectangluarSurfaceMiddle_Lam_24_D_x_60_W
+[2019.07.15-20.11.06:606][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FW410_BeamAttachedScreenGlass_Opal_Etched_13_1_2_H_x_60_W...
+[2019.07.15-20.11.06:607][459]LogStaticMesh: Built static mesh [0.06s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW410_BeamAttachedScreenGlass_Opal_Etched_13_1_2_H_x_60_W.Furniture_Systems_HermanMiller_CanvasBeam-Based_FW410_BeamAttachedScreenGlass_Opal_Etched_13_1_2_H_x_60_W
+[2019.07.15-20.11.06:647][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasBeam-Based_FW132_Mid-RunSupportClosed_Double-Sided_Pwrd...
+[2019.07.15-20.11.06:650][459]LogStaticMesh: Built static mesh [0.03s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW132_Mid-RunSupportClosed_Double-Sided_Pwrd.Furniture_Systems_HermanMiller_CanvasBeam-Based_FW132_Mid-RunSupportClosed_Double-Sided_Pwrd
+[2019.07.15-20.11.06:794][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasFilingandStorage_FF50M_2HBase_WoodVerticalStorageCabinetThinTop_42H_12W_20D_Wrdrbw_Shlvs_Lft-HngdDr_Lam_3_8_LamTop_Lock...
+[2019.07.15-20.11.06:799][459]LogStaticMesh: Built static mesh [0.05s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasFilingandStorage_FF50M_2HBase_WoodVerticalStorageCabinetThinTop_42H_12W_20D_Wrdrbw_Shlvs_Lft-HngdDr_Lam_3_8_LamTop_Lock.Furniture_Systems_HermanMiller_CanvasFilingandStorage_FF50M_2HBase_WoodVerticalStorageCabinetThinTop_42H_12W_20D_Wrdrbw_Shlvs_Lft-HngdDr_Lam_3_8_LamTop_Lock
+[2019.07.15-20.11.06:865][459]LogStaticMesh: Building static mesh Furniture_Systems_HermanMiller_CanvasFilingandStorage_FF50M_2HBase_WoodVerticalStorageCabinetThinTop_42H_12W_20D_Wrdrbw_Shlvs_Rt-HngdDr_Lam_3_8_LamTop_Lock...
+[2019.07.15-20.11.06:868][459]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasFilingandStorage_FF50M_2HBase_WoodVerticalStorageCabinetThinTop_42H_12W_20D_Wrdrbw_Shlvs_Rt-HngdDr_Lam_3_8_LamTop_Lock.Furniture_Systems_HermanMiller_CanvasFilingandStorage_FF50M_2HBase_WoodVerticalStorageCabinetThinTop_42H_12W_20D_Wrdrbw_Shlvs_Rt-HngdDr_Lam_3_8_LamTop_Lock
+[2019.07.15-20.11.06:929][459]LogStaticMesh: Building static mesh Furniture_Geiger_Tables_Conference_Peer_AI_36D_x_120W_x_42H_Peer_ConferenceTable_Freestanding_with_Powered_Wood_Top...
+[2019.07.15-20.11.06:984][459]LogStaticMesh: Built static mesh [0.10s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Geiger_Tables_Conference_Peer_AI_36D_x_120W_x_42H_Peer_ConferenceTable_Freestanding_with_Powered_Wood_Top.Furniture_Geiger_Tables_Conference_Peer_AI_36D_x_120W_x_42H_Peer_ConferenceTable_Freestanding_with_Powered_Wood_Top
+[2019.07.15-20.11.07:056][459]LogStaticMesh: Warning: Furniture_Geiger_Tables_Conference_Peer_AI_36D_x_120W_x_42H_Peer_ConferenceTable_Freestanding_with_Powered_Wood_Top has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2019.07.15-20.11.07:057][459]LogStaticMesh: Warning: Furniture_Geiger_Tables_Conference_Peer_AI_36D_x_120W_x_42H_Peer_ConferenceTable_Freestanding_with_Powered_Wood_Top has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.07.15-20.11.07:126][459]LogStaticMesh: Building static mesh Furniture_HermanMiller_TablesandFurniture_DT1FS_EverywhereSoftRectangleMeetingTable_3-ColumnBaseSpanner_Ven_30D_48W_Double_3-Column_Base_Spanner...
+[2019.07.15-20.11.07:152][459]LogStaticMesh: Built static mesh [0.08s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_TablesandFurniture_DT1FS_EverywhereSoftRectangleMeetingTable_3-ColumnBaseSpanner_Ven_30D_48W_Double_3-Column_Base_Spanner.Furniture_HermanMiller_TablesandFurniture_DT1FS_EverywhereSoftRectangleMeetingTable_3-ColumnBaseSpanner_Ven_30D_48W_Double_3-Column_Base_Spanner
+[2019.07.15-20.11.07:220][459]LogStaticMesh: Building static mesh Furniture_HermanMiller_Collection_EamesTables_RoundTableContractBase_Lam_Top_Thermo_Edge_28_5H_36Dia...
+[2019.07.15-20.11.07:236][459]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Collection_EamesTables_RoundTableContractBase_Lam_Top_Thermo_Edge_28_5H_36Dia.Furniture_HermanMiller_Collection_EamesTables_RoundTableContractBase_Lam_Top_Thermo_Edge_28_5H_36Dia
+[2019.07.15-20.11.07:880][459]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Seating_Setu_MultipurposeChair_Suspended_Upholstery_Ribbon_Arms_5-Star_Base_Standard_Height_Range_w__Casters is too long. Rename before cooking.
+[2019.07.15-20.11.07:880][459]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip is too long. Rename before cooking.
+[2019.07.15-20.11.07:880][459]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_TablesandFurniture_DT1BS_EverywhereSquareTable_4-ColumnBase_Lam_42D_42W_4-Column_Base is too long. Rename before cooking.
+[2019.07.15-20.11.07:880][459]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10E_RectangularSurfaceEndPosition_Lam_24_D_x_63_W is too long. Rename before cooking.
+[2019.07.15-20.11.07:881][459]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW410_BeamAttachedScreenGlass_Opal_Etched_13_1_2_H_x_60_W is too long. Rename before cooking.
+[2019.07.15-20.11.07:881][459]DatasmithImport: Warning: Saving may partially fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasFilingandStorage_FF50M_2HBase_WoodVerticalStorageCabinetThinTop_42H_12W_20D_Wrdrbw_Shlvs_Lft-HngdDr_Lam_3_8_LamTop_Lock is too long. Rename before saving.
+[2019.07.15-20.11.07:881][459]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasFilingandStorage_FF50M_2HBase_WoodVerticalStorageCabinetThinTop_42H_12W_20D_Wrdrbw_Shlvs_Lft-HngdDr_Lam_3_8_LamTop_Lock is too long. Rename before cooking.
+[2019.07.15-20.11.07:881][459]DatasmithImport: Warning: Saving may partially fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasFilingandStorage_FF50M_2HBase_WoodVerticalStorageCabinetThinTop_42H_12W_20D_Wrdrbw_Shlvs_Rt-HngdDr_Lam_3_8_LamTop_Lock is too long. Rename before saving.
+[2019.07.15-20.11.07:881][459]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasFilingandStorage_FF50M_2HBase_WoodVerticalStorageCabinetThinTop_42H_12W_20D_Wrdrbw_Shlvs_Rt-HngdDr_Lam_3_8_LamTop_Lock is too long. Rename before cooking.
+[2019.07.15-20.11.07:881][459]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_Geiger_Tables_Conference_Peer_AI_36D_x_120W_x_42H_Peer_ConferenceTable_Freestanding_with_Powered_Wood_Top is too long. Rename before cooking.
+[2019.07.15-20.11.07:881][459]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_TablesandFurniture_DT1FS_EverywhereSoftRectangleMeetingTable_3-ColumnBaseSpanner_Ven_30D_48W_Double_3-Column_Base_Spanner is too long. Rename before cooking.
+[2019.07.15-20.11.07:881][459]DatasmithImport: Warning: Cooking may fail because path for asset /Game/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Collection_EamesTables_RoundTableContractBase_Lam_Top_Thermo_Edge_28_5H_36Dia is too long. Rename before cooking.
+[2019.07.15-20.11.07:933][459]LogDatasmithImport: Imported Plaza_006-Option_A in [0 min 9.817 s]
+[2019.07.15-20.11.49:371][459]LogSlate: Window 'Message' being destroyed
+[2019.07.15-20.11.49:586][460]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.15-20.12.17:168][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-20.12.17:441][206]LogAssetEditorManager: Opening Asset editor for DatasmithScene /Game/Furniture/Plaza_006-Option_A/Plaza_006-Option_A.Plaza_006-Option_A
+[2019.07.15-20.12.18:111][206]LogUObjectHash: Compacting FUObjectHashTables data took   9.31ms
+[2019.07.15-20.12.18:147][206]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.07.15-20.12.18:289][206]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 121 classes and 0 folders.
+[2019.07.15-20.12.20:708][206]LogSlate: Took 0.035338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.15-20.12.29:696][405]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (40.110 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.15-20.12.32:147][469]LogSlate: Window 'Plaza_006-Option_A' being destroyed
+[2019.07.15-20.12.32:163][469]LogSlate: Window 'Plaza_006-Option_A' being destroyed
+[2019.07.15-20.12.36:342][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.15-20.12.53:428][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-20.12.56:145][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Furniture_Geiger_Tables_Conference_Peer_AI_36D_x_120W_x_42H_Peer_ConferenceTable_Freestanding_with_Powered_Wood_Top_2)
+[2019.07.15-20.13.07:156][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.15-20.13.25:698][702]Cmd: DELETE
+[2019.07.15-20.13.25:698][702]Cmd: ACTOR DELETE
+[2019.07.15-20.13.25:763][702]LogEditorActor: Deleted Actor: DatasmithSceneActor
+[2019.07.15-20.13.26:042][702]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2019.07.15-20.13.26:044][702]LogEditorActor: Deleted 1 Actors (0.346 secs)
+[2019.07.15-20.14.03:854][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.15-20.14.04:041][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.07.15-20.14.06:615][612]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/ThirdPersonExampleMap1107701B04436412BF403F9B547F01492.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap1.umap'
+[2019.07.15-20.14.07:206][612]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/ThirdPersonExampleMap1_BuiltData620FF04B47BEBAF01688E9984930249F.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap1_BuiltData.uasset'
+[2019.07.15-20.14.13:008][746]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Plaza_006-Option_ABE2631BF49ED2F372F87CE8BE555943B.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Plaza_006-Option_A.uasset'
+[2019.07.15-20.14.23:024][937]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2019.07.15-20.14.27:464][937]LogSlate: Window 'Save Content' being destroyed
+[2019.07.15-20.14.27:831][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Geiger_Tables_Conferen8B4BB45147F23FBEECDD1C99D90AA104.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Geiger_Tables_Conference_Peer_AI_36D_x_120W_x_42H_Peer_ConferenceTable_Freestanding_with_Powered_Wood_Top.uasset'
+[2019.07.15-20.14.28:191][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_Collectio0B86B38F4840C0AB77FA2AA6F01105BE.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Collection_Eames_MoldedSideChair_Non_Upholstered_Wood_Dowel_Base.uasset'
+[2019.07.15-20.14.28:401][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_Collectio119B0B034E53D597EEBE6A877D75F959.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Collection_EamesTables_RoundTableContractBase_Lam_Top_Thermo_Edge_28_5H_36Dia.uasset'
+[2019.07.15-20.14.28:607][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_CollectioEAB4854E495BE75341854E9022556679.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Collection_SheSaidStool_High_Height.uasset'
+[2019.07.15-20.14.28:913][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_Seating_S20CFDC534452C69BBA184494BCC2F269.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_Seating_Setu_MultipurposeChair_Suspended_Upholstery_Ribbon_Arms_5-Star_Base_Standard_Height_Range_w__Casters.uasset'
+[2019.07.15-20.14.29:086][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_Tablesand439413F6494936B09041FE97D75555A0.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_TablesandFurniture_DT1BS_EverywhereSquareTable_4-ColumnBase_Lam_42D_42W_4-Column_Base.uasset'
+[2019.07.15-20.14.29:216][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_HermanMiller_TablesandF5B7EA5C4763A6C0175BF39C92803C5E.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_HermanMiller_TablesandFurniture_DT1FS_EverywhereSoftRectangleMeetingTable_3-ColumnBaseSpanner_Ven_30D_48W_Double_3-Column_Base_Spanner.uasset'
+[2019.07.15-20.14.29:334][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_CFBAC89364E6A95B38FA78F86833B3592.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW120_FW121_BeamSection_Double-Sided_60_D_x_60_W.uasset'
+[2019.07.15-20.14.29:502][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_CC97565454BB6C379E4CDAC965437CA03.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW123_BeamConnector_Double-Sided.uasset'
+[2019.07.15-20.14.29:675][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_CC16512E148883A8F259593AC558E4EEF.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW130_EndSupportOpen_Double-Sided_60_D.uasset'
+[2019.07.15-20.14.29:864][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_C720343F6474114D05F9E6F8EB5A9AD1B.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW132_Mid-RunSupportClosed_Double-Sided_Pwrd.uasset'
+[2019.07.15-20.14.30:075][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_CE8224FB74DCED077C2792AB0C10DDD05.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FW410_BeamAttachedScreenGlass_Opal_Etched_13_1_2_H_x_60_W.uasset'
+[2019.07.15-20.14.30:286][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_C88E6318945BBF909FA99D5AA5EB3BDC3.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10E_RectangularSurfaceEndPosition_Lam_24_D_x_63_W.uasset'
+[2019.07.15-20.14.30:428][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_C918B210D461297AEE22ACC82E8D23135.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_CanvasBeam-Based_FWS10M_RectangluarSurfaceMiddle_Lam_24_D_x_60_W.uasset'
+[2019.07.15-20.14.39:578][937]LogSlate: Window 'Message' being destroyed
+[2019.07.15-20.14.40:698][937]LogSlate: Window 'Message' being destroyed
+[2019.07.15-20.14.42:662][937]LogSlate: Window 'Message' being destroyed
+[2019.07.15-20.14.43:901][937]LogSlate: Window 'Message' being destroyed
+[2019.07.15-20.14.44:130][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PB6F9CD7B4A528D6A5A7E2686FE050F81.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP1_ScreensSingleMaterial_29W_54H_Fabric.uasset'
+[2019.07.15-20.14.44:315][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PD49650E64252124383ADAB879D5383B6.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVP3_ScreenAndDesktopDividerAlignmentKit_Place_at_top_of_42H_Screens_Straight_Placed_Clip.uasset'
+[2019.07.15-20.14.44:563][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PBE21D4524495ACB78221598ECBE52FDA.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Left.uasset'
+[2019.07.15-20.14.44:720][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P68744DD949E5D05B1719688C36DADAE5.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Corner_Right.uasset'
+[2019.07.15-20.14.44:860][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P9BD192BF405ABEE480839CBA4C051C6C.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS2N_SectionalSeating_Straight.uasset'
+[2019.07.15-20.14.45:059][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_PD104991744CD77A71C2B60B0FED8A086.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_One_Chair.uasset'
+[2019.07.15-20.14.45:312][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P4C646B4A48DA0180CA4CB995A4BD19DA.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Three_Chairs.uasset'
+[2019.07.15-20.14.45:509][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P2C72EE1E4D95966C00117EB381FD863C.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS3_Legs_Attached_to_Two_Chairs.uasset'
+[2019.07.15-20.14.45:695][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Furniture_Systems_HermanMiller_P923E875842BA3A417D9819B322380A07.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Geometries/Furniture_Systems_HermanMiller_Public_BVS4_SectionalSeatBackGangingKit_2_Seat_Kit.uasset'
+[2019.07.15-20.14.45:916][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Fallback_ColorCEA64FA647454C9FDECA61804C6D00BB.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Fallback_Color.uasset'
+[2019.07.15-20.14.46:127][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Geiger_-_Grommet_Finish_NCMS_Met3EDC86AE44E6A72E7AEE21BC5CD164EC.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Geiger_-_Grommet_Finish_NCMS_Metallic_Silver.uasset'
+[2019.07.15-20.14.46:325][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Geiger_-_Wood_Finish_943_Caramel041F76F648992878C673CD8702D7D011.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Geiger_-_Wood_Finish_943_Caramel_Cherry.uasset'
+[2019.07.15-20.14.46:546][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_AN_AF369EF474D70763EF89C4B85955FD3DC.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_AN_Anodized_Aluminum.uasset'
+[2019.07.15-20.14.46:738][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Cast57533CFD4B2E5701BE51749AEBC54F94.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Caster_Finish_Black.uasset'
+[2019.07.15-20.14.46:952][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fabr114F52604382B3FACAF7C9992002D3FB.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Fabric_8T22_Crossing_Tin.uasset'
+[2019.07.15-20.14.47:160][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini643DAF7F48BF15F9193705935E6E1C1F.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_63_Fog.uasset'
+[2019.07.15-20.14.47:331][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini203B3AD446EAC2DB1A7F99BA38ABEB1B.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_8Q_Folkstone_Grey.uasset'
+[2019.07.15-20.14.47:529][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniFCDC1FBC41DBB9F7732241BDBB6DEE23.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_91_White.uasset'
+[2019.07.15-20.14.47:644][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniF1A1ADA04EDD4225E1B9E79962830984.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_97_Twilight.uasset'
+[2019.07.15-20.14.47:778][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini3D4F65264988612F4CA69AACF339DBF5.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_AN_Anodized_Aluminum.uasset'
+[2019.07.15-20.14.47:947][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniA8E7936A4247E8CF3D58E2AE75AE2ADB.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_BK_Black.uasset'
+[2019.07.15-20.14.48:133][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini68D7D3CF4CC8130F0D760FA20E253EAB.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_BU_Black_Umber.uasset'
+[2019.07.15-20.14.48:263][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniE115948642F649EBD017EBBB07C3EC65.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_G1_Graphite.uasset'
+[2019.07.15-20.14.48:401][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniCBB1F81A4CC12E83076FD8A627CD76AB.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_L7_H-alloy.uasset'
+[2019.07.15-20.14.48:568][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniB80C2B0C4F82B96F51D1268CB47EC874.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_MS_Metallic_Silver.uasset'
+[2019.07.15-20.14.48:705][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_FiniAE02BD404A565F4A314EFB86CF44D91B.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_PA_Polished_Aluminum.uasset'
+[2019.07.15-20.14.48:842][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Fini51D74C8C413014315F01EBBCCB635FB4.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Finish_WN_Warm_Grey_Neutral.uasset'
+[2019.07.15-20.14.49:033][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Glas752360944ECE3E2A97F555AE0A692D12.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Glass_5A_Opal_Etched.uasset'
+[2019.07.15-20.14.49:214][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Lami4045824D45ECC11FB3E7C295CF03FE6F.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Laminate_91_White.uasset'
+[2019.07.15-20.14.49:379][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_LockAD26A38645909DAF9C4F98A76A6BDADF.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Lock_Finish_Chrome.uasset'
+[2019.07.15-20.14.49:642][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_MS_M94A5B8B84A6FC4241A871188A6C53410.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_MS_Metallic_Silver.uasset'
+[2019.07.15-20.14.49:817][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Netw9615315B409A54587D25AAB8140EC8CC.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Network_Fabric_1A906_Twilight.uasset'
+[2019.07.15-20.14.50:011][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_SystE49CE5D6427AB44FDF953FB1B82A282D.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_System_Fabric_8R15_Twist_Shale.uasset'
+[2019.07.15-20.14.50:183][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_SystADAA15D34F1D3F7BDB32C7A97AEB768C.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_System_Fabric_8T18_Crossing_Indigo.uasset'
+[2019.07.15-20.14.50:380][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_VeneF7AEA1E6415A695AAE0D1D8BAEB47E14.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Veneer_2U_Light_Brown_Walnut.uasset'
+[2019.07.15-20.14.50:567][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Vene362BEB434EC4B384C3E002A03F2E0F07.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Veneer_OU_Walnut.uasset'
+[2019.07.15-20.14.50:747][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_Vene2150B2964E1D1498A210338B56A70D75.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Veneer_UL_Natural_Maple.uasset'
+[2019.07.15-20.14.50:965][937]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Unsupported_Herman_Miller_-_VeneF13FF6BA4481E5D5EB62609FB707C5F3.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Furniture/Plaza_006-Option_A/Materials/Unsupported_Herman_Miller_-_Veneer_YQC_Natural_Ash.uasset'
+[2019.07.15-20.15.02:020][937]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.07.15-20.15.02:276][937]LogSlate: Window 'FloorPlanDemo2 - Unreal Editor' being destroyed
+[2019.07.15-20.15.09:212][937]LogSlate: Window 'Message' being destroyed
+[2019.07.15-20.15.09:213][937]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.15-20.15.09:229][938]Cmd: QUIT_EDITOR
+[2019.07.15-20.15.09:362][938]LogExit: Preparing to exit.
+[2019.07.15-20.15.10:743][938]LogExit: Editor shut down
+[2019.07.15-20.15.10:743][938]LogExit: Transaction tracking system shut down
+[2019.07.15-20.15.11:449][938]LogExit: Object subsystem successfully closed.
+[2019.07.15-20.15.11:497][938]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.07.15-20.15.11:515][938]LogD3D11RHI: Shutdown
+[2019.07.15-20.15.11:515][938]LogD3D11RHI: CleanupD3DDevice
+[2019.07.15-20.15.11:517][938]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.15-20.15.11:517][938]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.15-20.15.11:517][938]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.15-20.15.11:517][938]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.15-20.15.11:517][938]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.15-20.15.11:518][938]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.15-20.15.11:948][938]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.07.15-20.15.12:064][938]LogModuleManager: Shutting down and abandoning module BlueprintGraph (688)
+[2019.07.15-20.15.12:064][938]LogModuleManager: Shutting down and abandoning module MeshBuilder (686)
+[2019.07.15-20.15.12:064][938]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (684)
+[2019.07.15-20.15.12:064][938]LogModuleManager: Shutting down and abandoning module SceneOutliner (682)
+[2019.07.15-20.15.12:064][938]LogModuleManager: Shutting down and abandoning module AddContentDialog (680)
+[2019.07.15-20.15.12:065][938]LogModuleManager: Shutting down and abandoning module WidgetCarousel (679)
+[2019.07.15-20.15.12:066][938]LogModuleManager: Shutting down and abandoning module EditorWidgets (676)
+[2019.07.15-20.15.12:066][938]LogModuleManager: Shutting down and abandoning module CollectionManager (674)
+[2019.07.15-20.15.12:066][938]LogModuleManager: Shutting down and abandoning module StatsViewer (672)
+[2019.07.15-20.15.12:066][938]LogModuleManager: Shutting down and abandoning module FoliageEdit (670)
+[2019.07.15-20.15.12:066][938]LogModuleManager: Shutting down and abandoning module LandscapeEditor (668)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module MeshPaintMode (666)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (664)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module ActorPickerMode (662)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module GeometryMode (660)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module TextureAlignMode (658)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module BspMode (656)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (654)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (652)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module AutomationWorker (650)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (648)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (646)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (644)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module OculusMR (642)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (640)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (638)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (636)
+[2019.07.15-20.15.12:067][938]LogModuleManager: Shutting down and abandoning module PlacementMode (635)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module MaterialEditor (634)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (630)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (628)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (626)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (624)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (622)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module WebMMedia (620)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (618)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (616)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module SequenceRecorder (615)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (612)
+[2019.07.15-20.15.12:068][938]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (610)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (608)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (606)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (604)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (602)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (600)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (598)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (596)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (594)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (592)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module CharacterAI (590)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module SmartSnapping (588)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module SessionServices (586)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module MeshPaint (584)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module ViewportSnapping (582)
+[2019.07.15-20.15.12:069][938]LogModuleManager: Shutting down and abandoning module ViewportInteraction (580)
+[2019.07.15-20.15.12:070][938]LogModuleManager: Shutting down and abandoning module ClothPainter (578)
+[2019.07.15-20.15.12:070][938]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (577)
+[2019.07.15-20.15.12:070][938]LogModuleManager: Shutting down and abandoning module LogVisualizer (574)
+[2019.07.15-20.15.12:070][938]LogModuleManager: Shutting down and abandoning module IntroTutorials (572)
+[2019.07.15-20.15.12:071][938]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (571)
+[2019.07.15-20.15.12:071][938]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (568)
+[2019.07.15-20.15.12:071][938]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (566)
+[2019.07.15-20.15.12:071][938]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (564)
+[2019.07.15-20.15.12:071][938]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (562)
+[2019.07.15-20.15.12:071][938]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (561)
+[2019.07.15-20.15.13:027][938]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (558)
+[2019.07.15-20.15.13:027][938]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (556)
+[2019.07.15-20.15.13:027][938]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (554)
+[2019.07.15-20.15.13:027][938]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (552)
+[2019.07.15-20.15.13:027][938]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (550)
+[2019.07.15-20.15.13:028][938]LogModuleManager: Shutting down and abandoning module InputBindingEditor (548)
+[2019.07.15-20.15.13:028][938]LogModuleManager: Shutting down and abandoning module MergeActors (546)
+[2019.07.15-20.15.13:028][938]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (544)
+[2019.07.15-20.15.13:028][938]LogModuleManager: Shutting down and abandoning module LocalizationService (543)
+[2019.07.15-20.15.13:028][938]LogModuleManager: Shutting down and abandoning module HardwareTargeting (540)
+[2019.07.15-20.15.13:028][938]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (538)
+[2019.07.15-20.15.13:028][938]LogModuleManager: Shutting down and abandoning module UndoHistory (536)
+[2019.07.15-20.15.13:028][938]LogModuleManager: Shutting down and abandoning module XmlParser (534)
+[2019.07.15-20.15.13:028][938]LogModuleManager: Shutting down and abandoning module Blutility (532)
+[2019.07.15-20.15.13:028][938]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (530)
+[2019.07.15-20.15.13:028][938]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (529)
+[2019.07.15-20.15.13:029][938]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (526)
+[2019.07.15-20.15.13:029][938]LogModuleManager: Shutting down and abandoning module SettingsEditor (524)
+[2019.07.15-20.15.13:029][938]LogModuleManager: Shutting down and abandoning module ProjectLauncher (522)
+[2019.07.15-20.15.13:029][938]LogModuleManager: Shutting down and abandoning module SessionFrontend (520)
+[2019.07.15-20.15.13:029][938]LogModuleManager: Shutting down and abandoning module ProfilerClient (518)
+[2019.07.15-20.15.13:029][938]LogModuleManager: Shutting down and abandoning module DeviceManager (516)
+[2019.07.15-20.15.13:029][938]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (515)
+[2019.07.15-20.15.13:072][938]LogModuleManager: Shutting down and abandoning module AutomationController (512)
+[2019.07.15-20.15.13:072][938]LogModuleManager: Shutting down and abandoning module AutomationWindow (510)
+[2019.07.15-20.15.13:072][938]LogModuleManager: Shutting down and abandoning module Layers (508)
+[2019.07.15-20.15.13:072][938]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (506)
+[2019.07.15-20.15.13:072][938]LogModuleManager: Shutting down and abandoning module DetailCustomizations (504)
+[2019.07.15-20.15.13:072][938]LogModuleManager: Shutting down and abandoning module PackagesDialog (502)
+[2019.07.15-20.15.13:073][938]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (500)
+[2019.07.15-20.15.13:073][938]LogModuleManager: Shutting down and abandoning module Persona (498)
+[2019.07.15-20.15.13:073][938]LogModuleManager: Shutting down and abandoning module AnimGraph (497)
+[2019.07.15-20.15.13:073][938]LogModuleManager: Shutting down and abandoning module Kismet (494)
+[2019.07.15-20.15.13:087][938]LogModuleManager: Shutting down and abandoning module GraphEditor (492)
+[2019.07.15-20.15.13:087][938]LogModuleManager: Shutting down and abandoning module ClassViewer (490)
+[2019.07.15-20.15.13:087][938]LogModuleManager: Shutting down and abandoning module Toolbox (488)
+[2019.07.15-20.15.13:087][938]LogModuleManager: Shutting down and abandoning module ModuleUI (486)
+[2019.07.15-20.15.13:087][938]LogModuleManager: Shutting down and abandoning module MovieSceneTools (484)
+[2019.07.15-20.15.13:087][938]LogModuleManager: Shutting down and abandoning module OutputLog (482)
+[2019.07.15-20.15.13:088][938]LogModuleManager: Shutting down and abandoning module GammaUI (480)
+[2019.07.15-20.15.13:088][938]LogModuleManager: Shutting down and abandoning module Documentation (478)
+[2019.07.15-20.15.13:088][938]LogModuleManager: Shutting down and abandoning module LiveCoding (476)
+[2019.07.15-20.15.13:088][938]LogModuleManager: Shutting down and abandoning module LevelSequence (474)
+[2019.07.15-20.15.13:088][938]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (472)
+[2019.07.15-20.15.13:088][938]LogModuleManager: Shutting down and abandoning module MovieScene (470)
+[2019.07.15-20.15.13:088][938]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (468)
+[2019.07.15-20.15.13:088][938]LogModuleManager: Shutting down and abandoning module LauncherPlatform (466)
+[2019.07.15-20.15.13:089][938]LogModuleManager: Shutting down and abandoning module AnalyticsET (464)
+[2019.07.15-20.15.13:089][938]LogModuleManager: Shutting down and abandoning module PortalServices (462)
+[2019.07.15-20.15.13:090][938]LogModuleManager: Shutting down and abandoning module PortalRpc (460)
+[2019.07.15-20.15.13:090][938]LogModuleManager: Shutting down and abandoning module MessagingRpc (458)
+[2019.07.15-20.15.13:090][938]LogModuleManager: Shutting down and abandoning module AIModule (456)
+[2019.07.15-20.15.13:090][938]LogModuleManager: Shutting down and abandoning module GameplayDebugger (455)
+[2019.07.15-20.15.13:090][938]LogModuleManager: Shutting down and abandoning module AITestSuite (453)
+[2019.07.15-20.15.13:090][938]LogModuleManager: Shutting down and abandoning module NavigationSystem (451)
+[2019.07.15-20.15.13:090][938]LogModuleManager: Shutting down and abandoning module DesktopPlatform (448)
+[2019.07.15-20.15.13:091][938]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (446)
+[2019.07.15-20.15.13:109][938]LogModuleManager: Shutting down and abandoning module ProfilerService (444)
+[2019.07.15-20.15.13:203][938]LogModuleManager: Shutting down and abandoning module TaskGraph (442)
+[2019.07.15-20.15.13:203][938]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (440)
+[2019.07.15-20.15.13:210][938]LogModuleManager: Shutting down and abandoning module VariantManager (438)
+[2019.07.15-20.15.13:210][938]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (436)
+[2019.07.15-20.15.13:210][938]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (435)
+[2019.07.15-20.15.13:233][938]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (434)
+[2019.07.15-20.15.13:233][938]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (431)
+[2019.07.15-20.15.13:233][938]LogModuleManager: Shutting down and abandoning module MDLImporter (428)
+[2019.07.15-20.15.13:233][938]LogModuleManager: Shutting down and abandoning module DatasmithGLTFImporter (426)
+[2019.07.15-20.15.13:233][938]LogModuleManager: Shutting down and abandoning module DatasmithImporter (425)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module DatasmithDataPrepLibraries (422)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module DatasmithDataPrepEditor (420)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module SteamVRController (418)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (416)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (414)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module OculusEditor (412)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module OculusInput (410)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (408)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module EditableMesh (406)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (404)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module CableComponent (402)
+[2019.07.15-20.15.13:234][938]LogModuleManager: Shutting down and abandoning module AudioCapture (400)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (398)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module LinearTimecode (388)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (376)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (374)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (372)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (370)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (368)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module BlastAuthoring (366)
+[2019.07.15-20.15.13:235][938]LogModuleManager: Shutting down and abandoning module BackChannel (364)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module AppleVision (362)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (360)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module VariantManagerContent (348)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module PolygonModeling (338)
+[2019.07.15-20.15.13:236][938]LogModuleManager: Shutting down and abandoning module MeshEditor (336)
+[2019.07.15-20.15.13:237][938]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (334)
+[2019.07.15-20.15.13:237][938]LogModuleManager: Shutting down and abandoning module GLTFImporter (332)
+[2019.07.15-20.15.13:237][938]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (330)
+[2019.07.15-20.15.13:237][938]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.07.15-20.15.13:237][938]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.07.15-20.15.13:237][938]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.07.15-20.15.13:237][938]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.07.15-20.15.13:237][938]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.07.15-20.15.13:237][938]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.07.15-20.15.13:237][938]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.07.15-20.15.13:237][938]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.07.15-20.15.13:238][938]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.07.15-20.15.13:239][938]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.07.15-20.15.13:239][938]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.07.15-20.15.13:239][938]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.07.15-20.15.13:239][938]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.07.15-20.15.13:340][938]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.07.15-20.15.13:441][938]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.07.15-20.15.13:441][938]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.07.15-20.15.13:441][938]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.07.15-20.15.13:441][938]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.07.15-20.15.13:441][938]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.07.15-20.15.13:441][938]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.07.15-20.15.13:441][938]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.07.15-20.15.13:441][938]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.07.15-20.15.13:441][938]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.07.15-20.15.13:441][938]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.07.15-20.15.13:441][938]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.07.15-20.15.13:441][938]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.07.15-20.15.13:442][938]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.07.15-20.15.13:442][938]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.07.15-20.15.13:443][938]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.07.15-20.15.13:443][938]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.07.15-20.15.13:443][938]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.07.15-20.15.13:443][938]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.07.15-20.15.13:445][938]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.07.15-20.15.13:448][938]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.07.15-20.15.13:448][938]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.07.15-20.15.13:448][938]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.07.15-20.15.13:448][938]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.07.15-20.15.13:448][938]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.07.15-20.15.13:448][938]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.07.15-20.15.13:448][938]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.07.15-20.15.13:449][938]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.07.15-20.15.13:449][938]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.07.15-20.15.13:449][938]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.07.15-20.15.13:449][938]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.07.15-20.15.13:449][938]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.07.15-20.15.13:449][938]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.07.15-20.15.13:449][938]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.07.15-20.15.13:449][938]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.07.15-20.15.13:449][938]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.07.15-20.15.13:450][938]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.07.15-20.15.13:450][938]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.07.15-20.15.13:450][938]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.07.15-20.15.13:450][938]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.07.15-20.15.13:451][938]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.07.15-20.15.13:451][938]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.07.15-20.15.13:452][938]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.07.15-20.15.13:452][938]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.07.15-20.15.13:452][938]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.07.15-20.15.13:452][938]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.07.15-20.15.13:452][938]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.07.15-20.15.13:458][938]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.07.15-20.15.13:458][938]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.07.15-20.15.13:458][938]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.07.15-20.15.13:458][938]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.07.15-20.15.13:458][938]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.07.15-20.15.13:458][938]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.07.15-20.15.13:458][938]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.07.15-20.15.13:458][938]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.07.15-20.15.13:458][938]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.07.15-20.15.13:458][938]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.07.15-20.15.13:459][938]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.07.15-20.15.13:459][938]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.07.15-20.15.13:459][938]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.07.15-20.15.13:459][938]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.07.15-20.15.13:459][938]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.07.15-20.15.13:459][938]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.07.15-20.15.13:540][938]LogDerivedDataCache: Shutdown
+[2019.07.15-20.15.13:540][938]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.07.15-20.15.13:540][938]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.07.15-20.15.13:540][938]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.07.15-20.15.13:540][938]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.07.15-20.15.13:540][938]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.07.15-20.15.13:540][938]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.07.15-20.15.13:540][938]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.07.15-20.15.13:540][938]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.07.15-20.15.13:540][938]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.07.15-20.15.13:540][938]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.07.15-20.15.13:540][938]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.07.15-20.15.13:541][938]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.07.15-20.15.13:541][938]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.07.15-20.15.13:541][938]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.07.15-20.15.13:541][938]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.07.15-20.15.13:541][938]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.07.15-20.15.13:541][938]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.07.15-20.15.13:541][938]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.07.15-20.15.13:542][938]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.07.15-20.15.13:543][938]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.07.15-20.15.13:543][938]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.07.15-20.15.13:543][938]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.07.15-20.15.13:543][938]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.07.15-20.15.13:545][938]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.07.15-20.15.13:545][938]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.07.15-20.15.13:547][938]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.07.15-20.15.13:547][938]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.07.15-20.15.13:564][938]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.07.15-20.15.13:565][938]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.07.15-20.15.13:565][938]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.07.15-20.15.13:565][938]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.07.15-20.15.13:565][938]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.07.15-20.15.13:565][938]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.07.15-20.15.13:565][938]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.07.15-20.15.13:565][938]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.07.15-20.15.13:565][938]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.07.15-20.15.13:565][938]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.07.15-20.15.13:565][938]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.07.15-20.15.13:565][938]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.07.15-20.15.13:566][938]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.07.15-20.15.13:566][938]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.07.15-20.15.13:566][938]LogHMD: Freeing OpenVRDLLHandle.
+[2019.07.15-20.15.13:566][938]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.07.15-20.15.13:566][938]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.07.15-20.15.13:566][938]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.07.15-20.15.13:566][938]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.07.15-20.15.13:567][938]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.07.15-20.15.13:569][938]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.07.15-20.15.13:569][938]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.07.15-20.15.13:606][938]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.07.15-20.15.13:607][938]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.07.15-20.15.13:607][938]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF9090F8A-4AEF-EA4A-95C1-50B8CFE3F5B9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6368017e496ec0355375c3baf16aadb7%7Cff563bfa1e2b42f3b3a11d84fca4cb38%7C187ac642-85ee-44bd-9867-23fa74089cb6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.07.15-20.15.13:639][938]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.07.15-20.15.13:642][938]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.07.15-20.15.13:662][938]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.07.15-20.15.13:670][938]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.07.15-20.15.13:670][938]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.07.15-20.15.13:673][938]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.07.15-20.15.13:673][938]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.07.15-20.15.13:673][938]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.07.15-20.15.13:674][938]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.07.15-20.15.13:674][938]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.07.15-20.15.13:674][938]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.07.15-20.15.13:674][938]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.07.15-20.15.13:676][938]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.07.15-20.15.13:676][938]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.07.15-20.15.13:676][938]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.07.15-20.15.13:677][938]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.07.15-20.15.13:677][938]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.07.15-20.15.13:677][938]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.07.15-20.15.13:677][938]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.07.15-20.15.13:677][938]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.07.15-20.15.13:677][938]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.07.15-20.15.13:677][938]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.07.15-20.15.13:677][938]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.07.15-20.15.13:677][938]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.07.15-20.15.13:714][938]LogExit: Exiting.
+[2019.07.15-20.15.13:753][938]Log file closed, 07/15/19 16:15:13
