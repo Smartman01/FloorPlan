@@ -1,0 +1,1076 @@
+﻿Log file open, 08/01/19 09:51:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FloorPlanDemo2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.958695
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.01-13.52.00:849][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.01-13.52.00:849][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.01-13.52.00:855][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.01-13.52.00:855][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.01-13.52.00:856][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.01-13.52.00:856][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.01-13.52.00:856][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.01-13.52.00:856][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.01-13.52.00:856][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.01-13.52.00:856][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.01-13.52.00:856][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.01-13.52.01:410][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:410][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.01-13.52.01:410][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.01-13.52.01:410][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:410][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.01-13.52.01:410][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:410][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.01-13.52.01:410][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.01-13.52.01:410][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.01-13.52.01:410][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.01-13.52.01:411][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.01-13.52.01:412][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.01-13.52.01:413][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.01-13.52.01:413][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.01-13.52.01:413][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:413][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.01-13.52.01:413][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.01-13.52.01:554][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.01-13.52.01:554][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.01-13.52.01:658][  0]LogHAL: Display: Platform has ~ 12 GB [12764549120 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.01-13.52.01:659][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.01-13.52.01:659][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.01-13.52.01:659][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:659][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.01-13.52.01:659][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.01-13.52.01:659][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:659][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.01-13.52.01:659][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:659][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.01-13.52.01:659][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.01-13.52.01:659][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.01-13.52.01:660][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.01-13.52.01:661][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.01-13.52.01:661][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Scalability.ini]
+[2019.08.01-13.52.01:661][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.01-13.52.01:661][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.01-13.52.01:661][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.01-13.52.01:688][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.01-13.52.01:688][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.01-13.52.01:688][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Config/Windows/Engine.ini]
+[2019.08.01-13.52.01:727][  0]LogInit: Computer: LAPTOP-2IV3VN8H
+[2019.08.01-13.52.01:727][  0]LogInit: User: carla
+[2019.08.01-13.52.01:727][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.01-13.52.01:727][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.01-13.52.01:728][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2019.08.01-13.52.01:728][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.01-13.52.01:728][  0]LogMemory: Process Physical Memory: 96.54 MB used, 96.54 MB peak
+[2019.08.01-13.52.01:728][  0]LogMemory: Process Virtual Memory: 89.32 MB used, 89.32 MB peak
+[2019.08.01-13.52.01:728][  0]LogMemory: Physical Memory: 8106.73 MB used,  4066.49 MB free, 12173.22 MB total
+[2019.08.01-13.52.01:728][  0]LogMemory: Virtual Memory: 4656.38 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.08.01-13.52.03:333][  0]LogInit: Using OS detected language (en-US).
+[2019.08.01-13.52.03:333][  0]LogInit: Using OS detected locale (en-US).
+[2019.08.01-13.52.03:336][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.01-13.52.04:926][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.01-13.52.07:511][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.01-13.52.07:511][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.01-13.52.14:288][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.01-13.52.14:288][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.01-13.52.15:628][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.08.01-13.52.15:628][  0]LogD3D11RHI:       4019/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.01-13.52.15:648][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.08.01-13.52.15:648][  0]LogD3D11RHI:       128/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.01-13.52.15:682][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.01-13.52.15:682][  0]LogD3D11RHI:       0/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.01-13.52.15:682][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.01-13.52.15:734][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.01-13.52.15:734][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.08.01-13.52.15:734][  0]LogWindows: EnumDisplayDevices:
+[2019.08.01-13.52.15:734][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.08.01-13.52.15:735][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.08.01-13.52.15:735][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.08.01-13.52.15:735][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2019.08.01-13.52.15:736][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.08.01-13.52.15:736][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.08.01-13.52.15:736][  0]LogD3D11RHI:   Driver Version: 430.64 (internal:26.21.14.3064, unified:430.64)
+[2019.08.01-13.52.15:736][  0]LogD3D11RHI:      Driver Date: 5-5-2019
+[2019.08.01-13.52.15:736][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2019.08.01-13.52.15:900][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.01-13.52.16:251][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-13.52.16:251][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-13.52.16:251][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.01-13.52.16:286][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 4)
+[2019.08.01-13.52.19:682][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.01-13.52.19:757][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.01-13.52.19:815][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.01-13.52.19:910][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.01-13.52.19:980][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.01-13.52.20:056][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.01-13.52.20:078][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.01-13.52.20:162][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.01-13.52.20:182][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.01-13.52.20:327][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.01-13.52.20:328][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.01-13.52.20:328][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.01-13.52.20:328][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.01-13.52.20:328][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.01-13.52.20:417][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.01-13.52.20:609][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.01-13.52.20:609][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.01-13.52.20:718][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.01-13.52.20:718][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.01-13.52.20:757][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.01-13.52.20:788][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.01-13.52.20:852][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.01-13.52.20:903][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.01-13.52.20:993][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.01-13.52.20:994][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.01-13.52.20:994][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.01-13.52.21:345][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.01-13.52.22:565][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Intermediate/Shaders/WorkingDirectory/29576/).
+[2019.08.01-13.52.22:565][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/carla/AppData/Local/Temp/UnrealShaderWorkingDir/D9655E5A4A9D6378A5A3ECA179CFD8B2/'.
+[2019.08.01-13.52.22:589][  0]LogXGEController: Cleaning working directory: C:/Users/carla/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.01-13.52.22:590][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.01-13.52.22:591][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.01-13.52.22:591][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.01-13.52.32:325][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.01-13.52.33:486][  0]LogDerivedDataCache: Loaded boot cache 1.14s 72MB C:/Users/carla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.01-13.52.33:486][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/carla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.01-13.52.33:486][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.01-13.52.33:486][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.01-13.52.33:486][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.01-13.52.33:486][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.01-13.52.33:621][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.01-13.52.33:719][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.08.01-13.52.33:732][  0]LogDerivedDataCache: Using Local data cache path C:/Users/carla/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.01-13.52.33:732][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.01-13.52.33:732][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.01-13.52.33:901][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.01-13.52.34:060][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.01-13.52.34:127][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.01-13.52.36:709][  0]LogAssetRegistry: FAssetRegistry took 0.0702 seconds to start up
+[2019.08.01-13.52.40:635][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.01-13.52.42:415][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.01-13.52.42:415][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.01-13.52.42:415][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.01-13.52.42:415][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.01-13.52.42:416][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.01-13.52.43:106][  0]LogNetVersion: FloorPlanDemo2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1413269697)
+[2019.08.01-13.52.50:975][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 1 prioritized culture(s) in 0.166422 seconds
+[2019.08.01-13.52.51:064][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.01-13.52.51:064][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.01-13.52.51:064][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.01-13.53.18:712][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.01-13.53.18:754][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.01-13.53.19:557][  0]SourceControl: Source control is disabled
+[2019.08.01-13.53.19:570][  0]SourceControl: Source control is disabled
+[2019.08.01-13.53.19:659][  0]SourceControl: Source control is disabled
+[2019.08.01-13.53.19:678][  0]SourceControl: Source control is disabled
+[2019.08.01-13.53.22:875][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.01-13.53.23:357][  0]LogOcInput: OculusInput pre-init called
+[2019.08.01-13.53.35:266][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.08.01-13.53.35:266][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.08.01-13.53.35:268][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.08.01-13.53.35:268][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.08.01-13.53.39:134][  0]LogAutomationTest: Warning: Smoke tests took > 2s to run: 2.44s
+[2019.08.01-13.53.39:273][  0]LogEngine: Initializing Engine...
+[2019.08.01-13.53.39:346][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.01-13.53.39:408][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.022 s
+[2019.08.01-13.53.41:002][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.01-13.53.41:716][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.01-13.53.41:990][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-13.53.42:275][  0]LogInit: FAudioDevice initialized.
+[2019.08.01-13.53.42:329][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.01-13.53.42:778][  0]LogDerivedDataCache: Saved boot cache 0.45s 72MB C:/Users/carla/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.01-13.53.42:945][  0]LogInit: Texture streaming: Enabled
+[2019.08.01-13.53.43:241][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.01-13.53.43:241][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={9DF91ADD-4D68-89F8-C3FE-2AA6F6EFE73C}
+[2019.08.01-13.53.43:526][  0]LogInit: Transaction tracking system initialized
+[2019.08.01-13.53.45:060][  0]BlueprintLog: New page: Editor Load
+[2019.08.01-13.53.48:661][  0]LocalizationService: Localization service is disabled
+[2019.08.01-13.53.53:281][  0]LogFileCache: Scanning file cache for directory 'C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/' took 0.05s
+[2019.08.01-13.53.53:281][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.01-13.53.53:281][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.01-13.53.59:253][  0]SourceControl: Source control is disabled
+[2019.08.01-13.53.59:997][  0]LogSlate: Took 0.074124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.01-13.54.16:559][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.08.01-13.54.16:822][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.01-13.54.16:826][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.01-13.54.21:023][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.08.01-13.54.21:023][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.01-13.54.21:028][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.01-13.54.21:383][  0]Cmd: MAP LOAD FILE="../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/ScheduleMap/ThirdPersonExampleMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.01-13.54.21:384][  0]LightingResults: New page: Lighting Build
+[2019.08.01-13.54.21:507][  0]MapCheck: New page: Map Check
+[2019.08.01-13.54.21:507][  0]LightingResults: New page: Lighting Build
+[2019.08.01-13.54.22:198][  0]LogUObjectHash: Compacting FUObjectHashTables data took  12.07ms
+[2019.08.01-13.54.33:521][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap1
+[2019.08.01-13.54.34:367][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.01-13.54.34:470][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.08.01-13.54.34:516][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.01-13.54.34:516][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.228ms to complete.
+[2019.08.01-13.54.34:516][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap1' took 13.133
+[2019.08.01-13.54.38:315][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-13.54.38:352][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-13.54.38:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-13.54.38:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-13.54.38:635][  0]LogCollectionManager: Loaded 0 collections in 0.002323 seconds
+[2019.08.01-13.54.39:334][  0]LogFileCache: Scanning file cache for directory 'C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Collections/' took 0.01s
+[2019.08.01-13.54.39:334][  0]LogFileCache: Scanning file cache for directory 'C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Developers/carla/Collections/' took 0.01s
+[2019.08.01-13.54.39:334][  0]LogFileCache: Scanning file cache for directory 'C:/Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Content/Collections/' took 0.01s
+[2019.08.01-13.54.39:334][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.01-13.54.39:395][  0]LogContentBrowser: Native class hierarchy populated in 0.0378 seconds. Added 2864 classes and 726 folders.
+[2019.08.01-13.54.39:988][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.01-13.54.40:140][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:186][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:247][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:253][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:411][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:476][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.40:983][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.41:010][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.41:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.41:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.41:094][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.41:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.41:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.41:167][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.41:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.41:246][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.01-13.54.42:604][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.08.01-13.54.42:685][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.08.01-13.54.43:460][  0]LogSlate: Took 0.057677 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.01-13.54.43:606][  0]LogSlate: Took 0.044392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.01-13.54.44:269][  0]LogRenderer: Reallocating scene render targets to support 908x436 Format 10 NumSamples 1 (Frame:1).
+[2019.08.01-13.54.45:545][  0]LogSlate: Took 0.052427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.01-13.54.46:014][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.08.01-13.54.46:014][  0]LogLoad: (Engine Initialization) Total time: 210.86 seconds
+[2019.08.01-13.54.46:014][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.01-13.54.47:081][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.01-13.54.47:911][  1]LogAssetRegistry: Asset discovery search completed in 131.2587 seconds
+[2019.08.01-13.54.47:952][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.01-13.54.47:952][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.08.01-13.54.48:717][  2]LogSlate: Took 0.016628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.01-13.54.48:742][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyAI.MyAI
+[2019.08.01-13.54.52:640][  2]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 121 classes and 0 folders.
+[2019.08.01-13.54.57:010][  2]LogSlate: Took 0.022143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.01-13.54.59:819][  3]LogSlate: Took 0.048165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.01-13.55.12:498][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-13.55.14:168][110]LogSlate: Window 'MyAI' being destroyed
+[2019.08.01-13.55.17:480][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-13.55.24:454][670]LogTemp: Repeating last play command: Simulate
+[2019.08.01-13.55.24:510][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.08.01-13.55.24:639][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-13.55.24:839][670]PIE: New page: SIE session: ThirdPersonExampleMap1 (Aug 1, 2019, 5:55:24 AM)
+[2019.08.01-13.55.25:066][670]LogPlayLevel: Creating play world package: /Game/ScheduleMap/UEDPIE_0_ThirdPersonExampleMap1
+[2019.08.01-13.55.25:233][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166147s)
+[2019.08.01-13.55.25:273][670]LogAIModule: Creating AISystem for world ThirdPersonExampleMap1
+[2019.08.01-13.55.25:303][670]LogPlayLevel: PIE: World Init took: (0.070201s)
+[2019.08.01-13.55.25:304][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1 to /Game/ScheduleMap/UEDPIE_0_ThirdPersonExampleMap1.ThirdPersonExampleMap1 (0.236913s)
+[2019.08.01-13.55.25:407][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.08.01-13.55.25:526][670]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-13.55.25:544][670]LogInit: FAudioDevice initialized.
+[2019.08.01-13.55.25:964][670]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.01-13.55.26:304][670]LogWorld: Bringing World /Game/ScheduleMap/UEDPIE_0_ThirdPersonExampleMap1.ThirdPersonExampleMap1 up for play (max tick rate 60) at 2019.08.01-09.55.26
+[2019.08.01-13.55.26:999][670]LogWorld: Bringing up level for play took: 0.724020
+[2019.08.01-13.55.27:677][670]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.01-13.55.27:812][670]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.01-13.55.27:813][670]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2019.08.01-13.55.28:300][670]PIE: Play in editor start time for /Game/ScheduleMap/UEDPIE_0_ThirdPersonExampleMap1 3.546
+[2019.08.01-13.55.28:610][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.08.01-13.57.37:877][963]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.08.01-13.57.38:025][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-13.57.38:116][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-13.57.38:116][963]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.08.01-13.57.38:170][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-13.57.38:223][963]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2019.08.01-13.57.38:274][964]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.08.01-14.06.41:799][754]LogTemp: Repeating last play command: Simulate
+[2019.08.01-14.06.41:845][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.08.01-14.06.41:845][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.01-14.06.41:845][754]PIE: New page: SIE session: ThirdPersonExampleMap1 (Aug 1, 2019, 6:06:41 AM)
+[2019.08.01-14.06.41:847][754]LogPlayLevel: Creating play world package: /Game/ScheduleMap/UEDPIE_0_ThirdPersonExampleMap1
+[2019.08.01-14.06.41:966][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117787s)
+[2019.08.01-14.06.41:967][754]LogAIModule: Creating AISystem for world ThirdPersonExampleMap1
+[2019.08.01-14.06.41:982][754]LogPlayLevel: PIE: World Init took: (0.016289s)
+[2019.08.01-14.06.41:983][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1 to /Game/ScheduleMap/UEDPIE_0_ThirdPersonExampleMap1.ThirdPersonExampleMap1 (0.135546s)
+[2019.08.01-14.06.42:054][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.08.01-14.06.42:072][754]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.01-14.06.42:106][754]LogInit: FAudioDevice initialized.
+[2019.08.01-14.06.42:136][754]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.01-14.06.42:146][754]LogWorld: Bringing World /Game/ScheduleMap/UEDPIE_0_ThirdPersonExampleMap1.ThirdPersonExampleMap1 up for play (max tick rate 0) at 2019.08.01-10.06.42
+[2019.08.01-14.06.42:150][754]LogWorld: Bringing up level for play took: 0.012405
+[2019.08.01-14.06.42:170][754]PIE: Play in editor start time for /Game/ScheduleMap/UEDPIE_0_ThirdPersonExampleMap1 -0.584
+[2019.08.01-14.06.42:172][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.08.01-14.22.13:599][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.08.01-14.22.13:600][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-14.22.13:670][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.01-14.22.13:670][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel' has LevelScriptBlueprint '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1' with GeneratedClass '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1_C' with ClassGeneratedBy '/Game/ScheduleMap/ThirdPersonExampleMap1.ThirdPersonExampleMap1:PersistentLevel.ThirdPersonExampleMap1'
+[2019.08.01-14.22.13:731][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.01-14.22.13:741][327]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2019.08.01-14.22.13:766][328]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.08.01-14.22.43:702][408]LogBlueprintActionDatabase: Requesting refresh due to module change: PortalProxies (loaded)
+[2019.08.01-14.50.45:243][488]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/carla/Downloads/3d-model.obj/3d-model.obj)
+[2019.08.01-14.50.45:454][488]LogFbx: Loading FBX Scene from ../../../../../../Users/carla/Downloads/3d-model.obj/3d-model.obj
+[2019.08.01-14.50.46:141][488]LogFbx: FBX Scene Loaded Succesfully
+[2019.08.01-14.51.16:405][488]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.08.01-14.51.22:688][981]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1745)].
+[2019.08.01-14.51.22:907][981]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2019.08.01-14.51.22:907][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ScheduleMap/ThirdPersonExampleMap1' took 0.171
+[2019.08.01-14.51.22:922][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyAI] ([1] browsable assets)...
+[2019.08.01-14.51.22:922][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyAI]
+[2019.08.01-14.51.22:922][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAI" FILE="../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Autosaves/Game/MyAI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.08.01-14.51.23:498][981]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/MyAI_Auto1AD13693E45D40FDDA3B487B2D02597BC.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Autosaves/Game/MyAI_Auto1.uasset'
+[2019.08.01-14.51.23:514][981]LogFileHelpers: Auto-saving content packages took 0.606
+[2019.08.01-14.51.48:158][422]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/carla/Downloads/3d-model.obj/3d-model.obj)
+[2019.08.01-14.51.48:182][422]LogFbx: Loading FBX Scene from ../../../../../../Users/carla/Downloads/3d-model.obj/3d-model.obj
+[2019.08.01-14.51.48:731][422]LogFbx: FBX Scene Loaded Succesfully
+[2019.08.01-14.52.10:354][422]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.08.01-14.52.10:898][422]LogMaterial: Display: Missing cached shader map for material Chuveiro_Rainshower_27569_Grohe_001Mat, compiling. 
+[2019.08.01-14.52.11:098][422]LogFbx: Display: Triangulating static mesh Chuveiro_Rainshower_27569_Grohe_001
+[2019.08.01-14.52.11:909][422]LogStaticMesh: Building static mesh 3d-model_Chuveiro_Rainshower_27569_Grohe_001...
+[2019.08.01-14.52.11:928][422]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.08.01-14.52.12:407][422]LogStaticMesh: Built static mesh [0.51s] /Game/Furniture/Bathroom/3d-model_Chuveiro_Rainshower_27569_Grohe_001.3d-model_Chuveiro_Rainshower_27569_Grohe_001
+[2019.08.01-14.52.12:558][422]LogStaticMesh: Warning: 3d-model_Chuveiro_Rainshower_27569_Grohe_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.12:558][422]LogStaticMesh: Warning: 3d-model_Chuveiro_Rainshower_27569_Grohe_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.12:791][422]LogMaterial: Display: Missing cached shader map for material Chuveiro_Rainshower_27569_Grohe_004Mat, compiling. 
+[2019.08.01-14.52.12:819][422]LogFbx: Display: Triangulating static mesh Chuveiro_Rainshower_27569_Grohe_004
+[2019.08.01-14.52.13:255][422]LogStaticMesh: Building static mesh 3d-model_Chuveiro_Rainshower_27569_Grohe_004...
+[2019.08.01-14.52.13:439][422]LogStaticMesh: Built static mesh [0.18s] /Game/Furniture/Bathroom/3d-model_Chuveiro_Rainshower_27569_Grohe_004.3d-model_Chuveiro_Rainshower_27569_Grohe_004
+[2019.08.01-14.52.13:477][422]LogStaticMesh: Warning: 3d-model_Chuveiro_Rainshower_27569_Grohe_004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.13:477][422]LogStaticMesh: Warning: 3d-model_Chuveiro_Rainshower_27569_Grohe_004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.13:550][422]LogMaterial: Display: Missing cached shader map for material Group_001Mat, compiling. 
+[2019.08.01-14.52.13:572][422]LogFbx: Display: Triangulating static mesh Group_001
+[2019.08.01-14.52.13:591][422]LogStaticMesh: Building static mesh 3d-model_Group_001...
+[2019.08.01-14.52.13:599][422]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Bathroom/3d-model_Group_001.3d-model_Group_001
+[2019.08.01-14.52.13:600][422]LogStaticMesh: Warning: 3d-model_Group_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.13:600][422]LogStaticMesh: Warning: 3d-model_Group_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.13:633][422]LogMaterial: Display: Missing cached shader map for material Group_002Mat, compiling. 
+[2019.08.01-14.52.13:653][422]LogFbx: Display: Triangulating static mesh Group_002
+[2019.08.01-14.52.13:706][422]LogStaticMesh: Building static mesh 3d-model_Group_002...
+[2019.08.01-14.52.13:719][422]LogStaticMesh: Built static mesh [0.05s] /Game/Furniture/Bathroom/3d-model_Group_002.3d-model_Group_002
+[2019.08.01-14.52.13:783][422]LogMaterial: Display: Missing cached shader map for material Group_003Mat, compiling. 
+[2019.08.01-14.52.13:803][422]LogFbx: Display: Triangulating static mesh Group_003
+[2019.08.01-14.52.13:812][422]LogStaticMesh: Building static mesh 3d-model_Group_003...
+[2019.08.01-14.52.13:813][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_003.3d-model_Group_003
+[2019.08.01-14.52.13:837][422]LogMaterial: Display: Missing cached shader map for material Group_004Mat, compiling. 
+[2019.08.01-14.52.13:860][422]LogFbx: Display: Triangulating static mesh Group_004
+[2019.08.01-14.52.13:872][422]LogStaticMesh: Building static mesh 3d-model_Group_004...
+[2019.08.01-14.52.13:872][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_004.3d-model_Group_004
+[2019.08.01-14.52.13:873][422]LogStaticMesh: Warning: 3d-model_Group_004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.13:873][422]LogStaticMesh: Warning: 3d-model_Group_004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.13:897][422]LogMaterial: Display: Missing cached shader map for material Group_005Mat, compiling. 
+[2019.08.01-14.52.13:917][422]LogFbx: Display: Triangulating static mesh Group_005
+[2019.08.01-14.52.13:945][422]LogStaticMesh: Building static mesh 3d-model_Group_005...
+[2019.08.01-14.52.13:948][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_005.3d-model_Group_005
+[2019.08.01-14.52.13:949][422]LogStaticMesh: Warning: 3d-model_Group_005 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.13:949][422]LogStaticMesh: Warning: 3d-model_Group_005 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.13:986][422]LogMaterial: Display: Missing cached shader map for material Group_006Mat, compiling. 
+[2019.08.01-14.52.14:011][422]LogFbx: Display: Triangulating static mesh Group_006
+[2019.08.01-14.52.14:025][422]LogStaticMesh: Building static mesh 3d-model_Group_006...
+[2019.08.01-14.52.14:026][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_006.3d-model_Group_006
+[2019.08.01-14.52.14:026][422]LogStaticMesh: Warning: 3d-model_Group_006 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.14:026][422]LogStaticMesh: Warning: 3d-model_Group_006 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.14:051][422]LogMaterial: Display: Missing cached shader map for material Group_007Mat, compiling. 
+[2019.08.01-14.52.14:070][422]LogFbx: Display: Triangulating static mesh Group_007
+[2019.08.01-14.52.14:121][422]LogStaticMesh: Building static mesh 3d-model_Group_007...
+[2019.08.01-14.52.14:130][422]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Bathroom/3d-model_Group_007.3d-model_Group_007
+[2019.08.01-14.52.14:133][422]LogStaticMesh: Warning: 3d-model_Group_007 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.14:133][422]LogStaticMesh: Warning: 3d-model_Group_007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.14:162][422]LogMaterial: Display: Missing cached shader map for material Group_008Mat, compiling. 
+[2019.08.01-14.52.14:185][422]LogFbx: Display: Triangulating static mesh Group_008
+[2019.08.01-14.52.14:199][422]LogStaticMesh: Building static mesh 3d-model_Group_008...
+[2019.08.01-14.52.14:199][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_008.3d-model_Group_008
+[2019.08.01-14.52.14:199][422]LogStaticMesh: Warning: 3d-model_Group_008 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.14:199][422]LogStaticMesh: Warning: 3d-model_Group_008 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.14:222][422]LogMaterial: Display: Missing cached shader map for material Group_009Mat, compiling. 
+[2019.08.01-14.52.14:244][422]LogFbx: Display: Triangulating static mesh Group_009
+[2019.08.01-14.52.14:261][422]LogStaticMesh: Building static mesh 3d-model_Group_009...
+[2019.08.01-14.52.14:264][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_009.3d-model_Group_009
+[2019.08.01-14.52.14:265][422]LogStaticMesh: Warning: 3d-model_Group_009 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.14:265][422]LogStaticMesh: Warning: 3d-model_Group_009 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.14:290][422]LogMaterial: Display: Missing cached shader map for material Group_010Mat, compiling. 
+[2019.08.01-14.52.14:314][422]LogFbx: Display: Triangulating static mesh Group_010
+[2019.08.01-14.52.14:330][422]LogStaticMesh: Building static mesh 3d-model_Group_010...
+[2019.08.01-14.52.14:332][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_010.3d-model_Group_010
+[2019.08.01-14.52.14:359][422]LogMaterial: Display: Missing cached shader map for material Group_011Mat, compiling. 
+[2019.08.01-14.52.14:384][422]LogFbx: Display: Triangulating static mesh Group_011
+[2019.08.01-14.52.14:403][422]LogStaticMesh: Building static mesh 3d-model_Group_011...
+[2019.08.01-14.52.14:404][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_011.3d-model_Group_011
+[2019.08.01-14.52.14:433][422]LogMaterial: Display: Missing cached shader map for material Group_012Mat, compiling. 
+[2019.08.01-14.52.14:455][422]LogFbx: Display: Triangulating static mesh Group_012
+[2019.08.01-14.52.14:544][422]LogStaticMesh: Building static mesh 3d-model_Group_012...
+[2019.08.01-14.52.14:544][422]LogStaticMesh: Built static mesh [0.08s] /Game/Furniture/Bathroom/3d-model_Group_012.3d-model_Group_012
+[2019.08.01-14.52.14:545][422]LogStaticMesh: Warning: 3d-model_Group_012 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.14:545][422]LogStaticMesh: Warning: 3d-model_Group_012 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.14:594][422]LogMaterial: Display: Missing cached shader map for material Group_013Mat, compiling. 
+[2019.08.01-14.52.14:618][422]LogFbx: Display: Triangulating static mesh Group_013
+[2019.08.01-14.52.14:650][422]LogStaticMesh: Building static mesh 3d-model_Group_013...
+[2019.08.01-14.52.14:652][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_013.3d-model_Group_013
+[2019.08.01-14.52.14:653][422]LogStaticMesh: Warning: 3d-model_Group_013 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.14:653][422]LogStaticMesh: Warning: 3d-model_Group_013 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.14:697][422]LogMaterial: Display: Missing cached shader map for material Group_014Mat, compiling. 
+[2019.08.01-14.52.14:719][422]LogFbx: Display: Triangulating static mesh Group_014
+[2019.08.01-14.52.14:728][422]LogStaticMesh: Building static mesh 3d-model_Group_014...
+[2019.08.01-14.52.14:728][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_014.3d-model_Group_014
+[2019.08.01-14.52.14:812][422]LogStaticMesh: Warning: 3d-model_Group_014 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.14:812][422]LogStaticMesh: Warning: 3d-model_Group_014 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.14:841][422]LogMaterial: Display: Missing cached shader map for material Group_015Mat, compiling. 
+[2019.08.01-14.52.14:861][422]LogFbx: Display: Triangulating static mesh Group_015
+[2019.08.01-14.52.14:919][422]LogStaticMesh: Building static mesh 3d-model_Group_015...
+[2019.08.01-14.52.14:928][422]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Bathroom/3d-model_Group_015.3d-model_Group_015
+[2019.08.01-14.52.14:932][422]LogStaticMesh: Warning: 3d-model_Group_015 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.14:932][422]LogStaticMesh: Warning: 3d-model_Group_015 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.14:963][422]LogMaterial: Display: Missing cached shader map for material Group_016Mat, compiling. 
+[2019.08.01-14.52.14:991][422]LogFbx: Display: Triangulating static mesh Group_016
+[2019.08.01-14.52.15:002][422]LogStaticMesh: Building static mesh 3d-model_Group_016...
+[2019.08.01-14.52.15:003][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_016.3d-model_Group_016
+[2019.08.01-14.52.15:003][422]LogStaticMesh: Warning: 3d-model_Group_016 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.15:003][422]LogStaticMesh: Warning: 3d-model_Group_016 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.15:029][422]LogMaterial: Display: Missing cached shader map for material Group_017Mat, compiling. 
+[2019.08.01-14.52.15:049][422]LogFbx: Display: Triangulating static mesh Group_017
+[2019.08.01-14.52.15:073][422]LogStaticMesh: Building static mesh 3d-model_Group_017...
+[2019.08.01-14.52.15:078][422]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Bathroom/3d-model_Group_017.3d-model_Group_017
+[2019.08.01-14.52.15:079][422]LogStaticMesh: Warning: 3d-model_Group_017 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.15:079][422]LogStaticMesh: Warning: 3d-model_Group_017 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.15:109][422]LogMaterial: Display: Missing cached shader map for material Group_018Mat, compiling. 
+[2019.08.01-14.52.15:139][422]LogFbx: Display: Triangulating static mesh Group_018
+[2019.08.01-14.52.15:168][422]LogStaticMesh: Building static mesh 3d-model_Group_018...
+[2019.08.01-14.52.15:172][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_018.3d-model_Group_018
+[2019.08.01-14.52.15:206][422]LogMaterial: Display: Missing cached shader map for material Group_019Mat, compiling. 
+[2019.08.01-14.52.15:235][422]LogFbx: Display: Triangulating static mesh Group_019
+[2019.08.01-14.52.15:253][422]LogStaticMesh: Building static mesh 3d-model_Group_019...
+[2019.08.01-14.52.15:254][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_019.3d-model_Group_019
+[2019.08.01-14.52.15:284][422]LogMaterial: Display: Missing cached shader map for material Group_020Mat, compiling. 
+[2019.08.01-14.52.15:312][422]LogFbx: Display: Triangulating static mesh Group_020
+[2019.08.01-14.52.15:326][422]LogStaticMesh: Building static mesh 3d-model_Group_020...
+[2019.08.01-14.52.15:327][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_020.3d-model_Group_020
+[2019.08.01-14.52.15:328][422]LogStaticMesh: Warning: 3d-model_Group_020 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.15:328][422]LogStaticMesh: Warning: 3d-model_Group_020 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.15:387][422]LogMaterial: Display: Missing cached shader map for material Group_021Mat, compiling. 
+[2019.08.01-14.52.15:408][422]LogFbx: Display: Triangulating static mesh Group_021
+[2019.08.01-14.52.15:440][422]LogStaticMesh: Building static mesh 3d-model_Group_021...
+[2019.08.01-14.52.15:443][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_021.3d-model_Group_021
+[2019.08.01-14.52.15:444][422]LogStaticMesh: Warning: 3d-model_Group_021 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.15:444][422]LogStaticMesh: Warning: 3d-model_Group_021 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.15:474][422]LogMaterial: Display: Missing cached shader map for material Group_022Mat, compiling. 
+[2019.08.01-14.52.15:498][422]LogFbx: Display: Triangulating static mesh Group_022
+[2019.08.01-14.52.15:511][422]LogStaticMesh: Building static mesh 3d-model_Group_022...
+[2019.08.01-14.52.15:511][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_022.3d-model_Group_022
+[2019.08.01-14.52.15:512][422]LogStaticMesh: Warning: 3d-model_Group_022 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.15:512][422]LogStaticMesh: Warning: 3d-model_Group_022 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.15:539][422]LogMaterial: Display: Missing cached shader map for material Group_023Mat, compiling. 
+[2019.08.01-14.52.15:564][422]LogFbx: Display: Triangulating static mesh Group_023
+[2019.08.01-14.52.15:615][422]LogStaticMesh: Building static mesh 3d-model_Group_023...
+[2019.08.01-14.52.15:623][422]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Bathroom/3d-model_Group_023.3d-model_Group_023
+[2019.08.01-14.52.15:625][422]LogStaticMesh: Warning: 3d-model_Group_023 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.15:625][422]LogStaticMesh: Warning: 3d-model_Group_023 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.15:654][422]LogMaterial: Display: Missing cached shader map for material Group_024Mat, compiling. 
+[2019.08.01-14.52.15:677][422]LogFbx: Display: Triangulating static mesh Group_024
+[2019.08.01-14.52.15:694][422]LogStaticMesh: Building static mesh 3d-model_Group_024...
+[2019.08.01-14.52.15:694][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_024.3d-model_Group_024
+[2019.08.01-14.52.15:695][422]LogStaticMesh: Warning: 3d-model_Group_024 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.15:695][422]LogStaticMesh: Warning: 3d-model_Group_024 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.15:722][422]LogMaterial: Display: Missing cached shader map for material Group_025Mat, compiling. 
+[2019.08.01-14.52.15:746][422]LogFbx: Display: Triangulating static mesh Group_025
+[2019.08.01-14.52.15:767][422]LogStaticMesh: Building static mesh 3d-model_Group_025...
+[2019.08.01-14.52.15:769][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_025.3d-model_Group_025
+[2019.08.01-14.52.15:770][422]LogStaticMesh: Warning: 3d-model_Group_025 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.15:770][422]LogStaticMesh: Warning: 3d-model_Group_025 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.15:799][422]LogMaterial: Display: Missing cached shader map for material Group_026Mat, compiling. 
+[2019.08.01-14.52.15:829][422]LogFbx: Display: Triangulating static mesh Group_026
+[2019.08.01-14.52.15:854][422]LogStaticMesh: Building static mesh 3d-model_Group_026...
+[2019.08.01-14.52.15:857][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_026.3d-model_Group_026
+[2019.08.01-14.52.15:888][422]LogMaterial: Display: Missing cached shader map for material Group_027Mat, compiling. 
+[2019.08.01-14.52.15:919][422]LogFbx: Display: Triangulating static mesh Group_027
+[2019.08.01-14.52.15:951][422]LogStaticMesh: Building static mesh 3d-model_Group_027...
+[2019.08.01-14.52.15:964][422]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Bathroom/3d-model_Group_027.3d-model_Group_027
+[2019.08.01-14.52.15:966][422]LogStaticMesh: Warning: 3d-model_Group_027 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.15:966][422]LogStaticMesh: Warning: 3d-model_Group_027 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.15:997][422]LogMaterial: Display: Missing cached shader map for material Group_028Mat, compiling. 
+[2019.08.01-14.52.16:028][422]LogFbx: Display: Triangulating static mesh Group_028
+[2019.08.01-14.52.16:048][422]LogStaticMesh: Building static mesh 3d-model_Group_028...
+[2019.08.01-14.52.16:070][422]LogStaticMesh: Built static mesh [0.02s] /Game/Furniture/Bathroom/3d-model_Group_028.3d-model_Group_028
+[2019.08.01-14.52.16:098][422]LogMaterial: Display: Missing cached shader map for material Group_029Mat, compiling. 
+[2019.08.01-14.52.16:122][422]LogFbx: Display: Triangulating static mesh Group_029
+[2019.08.01-14.52.16:137][422]LogStaticMesh: Building static mesh 3d-model_Group_029...
+[2019.08.01-14.52.16:139][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_029.3d-model_Group_029
+[2019.08.01-14.52.16:167][422]LogMaterial: Display: Missing cached shader map for material Group_030Mat, compiling. 
+[2019.08.01-14.52.16:193][422]LogFbx: Display: Triangulating static mesh Group_030
+[2019.08.01-14.52.16:208][422]LogStaticMesh: Building static mesh 3d-model_Group_030...
+[2019.08.01-14.52.16:209][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_030.3d-model_Group_030
+[2019.08.01-14.52.16:209][422]LogStaticMesh: Warning: 3d-model_Group_030 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.16:209][422]LogStaticMesh: Warning: 3d-model_Group_030 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.16:248][422]LogMaterial: Display: Missing cached shader map for material Group_031Mat, compiling. 
+[2019.08.01-14.52.16:279][422]LogFbx: Display: Triangulating static mesh Group_031
+[2019.08.01-14.52.16:306][422]LogStaticMesh: Building static mesh 3d-model_Group_031...
+[2019.08.01-14.52.16:310][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_031.3d-model_Group_031
+[2019.08.01-14.52.16:311][422]LogStaticMesh: Warning: 3d-model_Group_031 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.16:311][422]LogStaticMesh: Warning: 3d-model_Group_031 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.16:339][422]LogMaterial: Display: Missing cached shader map for material Group_032Mat, compiling. 
+[2019.08.01-14.52.16:367][422]LogFbx: Display: Triangulating static mesh Group_032
+[2019.08.01-14.52.16:382][422]LogStaticMesh: Building static mesh 3d-model_Group_032...
+[2019.08.01-14.52.16:382][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_032.3d-model_Group_032
+[2019.08.01-14.52.16:383][422]LogStaticMesh: Warning: 3d-model_Group_032 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.16:383][422]LogStaticMesh: Warning: 3d-model_Group_032 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.16:410][422]LogMaterial: Display: Missing cached shader map for material Group_033Mat, compiling. 
+[2019.08.01-14.52.16:433][422]LogFbx: Display: Triangulating static mesh Group_033
+[2019.08.01-14.52.16:480][422]LogStaticMesh: Building static mesh 3d-model_Group_033...
+[2019.08.01-14.52.16:487][422]LogStaticMesh: Built static mesh [0.01s] /Game/Furniture/Bathroom/3d-model_Group_033.3d-model_Group_033
+[2019.08.01-14.52.16:489][422]LogStaticMesh: Warning: 3d-model_Group_033 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.16:489][422]LogStaticMesh: Warning: 3d-model_Group_033 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.16:522][422]LogMaterial: Display: Missing cached shader map for material Group_034Mat, compiling. 
+[2019.08.01-14.52.16:545][422]LogFbx: Display: Triangulating static mesh Group_034
+[2019.08.01-14.52.16:558][422]LogStaticMesh: Building static mesh 3d-model_Group_034...
+[2019.08.01-14.52.16:558][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_034.3d-model_Group_034
+[2019.08.01-14.52.16:559][422]LogStaticMesh: Warning: 3d-model_Group_034 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.16:559][422]LogStaticMesh: Warning: 3d-model_Group_034 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.16:586][422]LogMaterial: Display: Missing cached shader map for material Group_035Mat, compiling. 
+[2019.08.01-14.52.16:610][422]LogFbx: Display: Triangulating static mesh Group_035
+[2019.08.01-14.52.16:631][422]LogStaticMesh: Building static mesh 3d-model_Group_035...
+[2019.08.01-14.52.16:634][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_035.3d-model_Group_035
+[2019.08.01-14.52.16:635][422]LogStaticMesh: Warning: 3d-model_Group_035 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.16:636][422]LogStaticMesh: Warning: 3d-model_Group_035 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.16:665][422]LogMaterial: Display: Missing cached shader map for material Group_036Mat, compiling. 
+[2019.08.01-14.52.16:689][422]LogFbx: Display: Triangulating static mesh Group_036
+[2019.08.01-14.52.16:717][422]LogStaticMesh: Building static mesh 3d-model_Group_036...
+[2019.08.01-14.52.16:721][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Group_036.3d-model_Group_036
+[2019.08.01-14.52.16:752][422]LogMaterial: Display: Missing cached shader map for material i_one_piece_advance_DWG_001Mat, compiling. 
+[2019.08.01-14.52.16:777][422]LogFbx: Display: Triangulating static mesh i_one_piece_advance_DWG_001
+[2019.08.01-14.52.17:080][422]LogStaticMesh: Building static mesh 3d-model_i_one_piece_advance_DWG_001...
+[2019.08.01-14.52.17:190][422]LogStaticMesh: Built static mesh [0.11s] /Game/Furniture/Bathroom/3d-model_i_one_piece_advance_DWG_001.3d-model_i_one_piece_advance_DWG_001
+[2019.08.01-14.52.17:222][422]LogStaticMesh: Warning: 3d-model_i_one_piece_advance_DWG_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.17:222][422]LogStaticMesh: Warning: 3d-model_i_one_piece_advance_DWG_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.17:286][422]LogMaterial: Display: Missing cached shader map for material i_one_piece_advance_DWG_003Mat, compiling. 
+[2019.08.01-14.52.17:309][422]LogFbx: Display: Triangulating static mesh i_one_piece_advance_DWG_003
+[2019.08.01-14.52.17:604][422]LogStaticMesh: Building static mesh 3d-model_i_one_piece_advance_DWG_003...
+[2019.08.01-14.52.17:724][422]LogStaticMesh: Built static mesh [0.12s] /Game/Furniture/Bathroom/3d-model_i_one_piece_advance_DWG_003.3d-model_i_one_piece_advance_DWG_003
+[2019.08.01-14.52.17:754][422]LogStaticMesh: Warning: 3d-model_i_one_piece_advance_DWG_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.17:754][422]LogStaticMesh: Warning: 3d-model_i_one_piece_advance_DWG_003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.17:819][422]LogMaterial: Display: Missing cached shader map for material Layer0_001Mat, compiling. 
+[2019.08.01-14.52.17:852][422]LogFbx: Display: Triangulating static mesh Layer0_001
+[2019.08.01-14.52.17:954][422]LogStaticMesh: Building static mesh 3d-model_Layer0_001...
+[2019.08.01-14.52.18:012][422]LogStaticMesh: Built static mesh [0.06s] /Game/Furniture/Bathroom/3d-model_Layer0_001.3d-model_Layer0_001
+[2019.08.01-14.52.18:017][422]LogStaticMesh: Warning: 3d-model_Layer0_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.08.01-14.52.18:017][422]LogStaticMesh: Warning: 3d-model_Layer0_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.08.01-14.52.18:060][422]LogMaterial: Display: Missing cached shader map for material Line05_001Mat, compiling. 
+[2019.08.01-14.52.18:088][422]LogShaderCompilers: Display: Shaders left to compile 860
+[2019.08.01-14.52.18:090][422]LogFbx: Display: Triangulating static mesh Line05_001
+[2019.08.01-14.52.18:102][422]LogStaticMesh: Building static mesh 3d-model_Line05_001...
+[2019.08.01-14.52.18:105][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Line05_001.3d-model_Line05_001
+[2019.08.01-14.52.18:132][422]LogMaterial: Display: Missing cached shader map for material Line05_002Mat, compiling. 
+[2019.08.01-14.52.18:155][422]LogFbx: Display: Triangulating static mesh Line05_002
+[2019.08.01-14.52.18:173][422]LogStaticMesh: Building static mesh 3d-model_Line05_002...
+[2019.08.01-14.52.18:176][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Line05_002.3d-model_Line05_002
+[2019.08.01-14.52.18:210][422]LogMaterial: Display: Missing cached shader map for material Line05_003Mat, compiling. 
+[2019.08.01-14.52.18:234][422]LogFbx: Display: Triangulating static mesh Line05_003
+[2019.08.01-14.52.18:251][422]LogStaticMesh: Building static mesh 3d-model_Line05_003...
+[2019.08.01-14.52.18:253][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Line05_003.3d-model_Line05_003
+[2019.08.01-14.52.18:282][422]LogMaterial: Display: Missing cached shader map for material Line05_004Mat, compiling. 
+[2019.08.01-14.52.18:306][422]LogFbx: Display: Triangulating static mesh Line05_004
+[2019.08.01-14.52.18:325][422]LogStaticMesh: Building static mesh 3d-model_Line05_004...
+[2019.08.01-14.52.18:328][422]LogStaticMesh: Built static mesh [0.00s] /Game/Furniture/Bathroom/3d-model_Line05_004.3d-model_Line05_004
+[2019.08.01-14.52.18:723][422]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Chuveiro_Rainshower_27569_Grohe_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Chuveiro_Rainshower_27569_Grohe_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Chuveiro_Rainshower_27569_Grohe_004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Chuveiro_Rainshower_27569_Grohe_004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_004 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_004 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_005 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_005 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_006 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_006 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_007 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_008 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_008 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_009 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_009 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_012 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_012 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:724][422]FBXImport: Warning: 3d-model_Group_013 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_013 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_014 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_014 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_015 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_015 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_016 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_016 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_017 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_017 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_020 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_020 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_021 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_021 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_022 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_022 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_023 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_023 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_024 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_024 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_025 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_025 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_027 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:725][422]FBXImport: Warning: 3d-model_Group_027 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_030 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_030 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_031 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_031 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_032 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_032 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_033 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_033 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_034 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_034 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_035 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Group_035 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_i_one_piece_advance_DWG_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_i_one_piece_advance_DWG_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_i_one_piece_advance_DWG_003 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_i_one_piece_advance_DWG_003 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Layer0_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.08.01-14.52.18:726][422]FBXImport: Warning: 3d-model_Layer0_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.08.01-14.52.37:044][ 16]LogSlate: Window 'Message Log' being destroyed
+[2019.08.01-14.52.37:058][ 16]LogSlate: Window 'Message Log' being destroyed
+[2019.08.01-14.52.46:038][298]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (26.173 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-14.53.29:754][658]LogActorFactory: Actor Factory created 3d-model_Layer0_001
+[2019.08.01-14.53.32:553][816]LogActorFactory: Actor Factory created 3d-model_Layer0_001
+[2019.08.01-14.53.34:391][908]LogActorFactory: Actor Factory created 3d-model_Layer0_001
+[2019.08.01-14.53.37:773][991]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.53.48:741][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.54.52:777][647]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.55.15:133][329]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.55.23:026][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.55.34:937][947]Cmd: TRANSACTION UNDO
+[2019.08.01-14.55.34:938][947]LogEditorTransaction: Undo Set Scale
+[2019.08.01-14.56.08:601][880]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.56.56:392][664]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2019.08.01-14.57.03:773][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (3d-model_Layer0_001)
+[2019.08.01-14.57.09:503][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.57.28:984][561]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.57.55:240][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-14.58.15:377][838]Cmd: TRANSACTION UNDO
+[2019.08.01-14.58.15:377][838]LogEditorTransaction: Undo Set Location
+[2019.08.01-14.58.31:831][918]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-14.58.49:884][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.00.07:785][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.00.19:434][ 48]Cmd: DELETE
+[2019.08.01-15.00.19:434][ 48]Cmd: ACTOR DELETE
+[2019.08.01-15.00.19:694][ 48]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.08.01-15.00.19:916][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2019.08.01-15.00.19:916][ 48]LogEditorActor: Deleted 1 Actors (0.264 secs)
+[2019.08.01-15.00.44:221][757]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.08.01-15.01.11:075][757]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.01-15.01.12:007][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2019.08.01-15.01.15:112][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.08.01-15.01.16:010][103]LogSavePackage: Moving '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/ThirdPersonExampleMap1_Auto2CE9A73BC45A79E401C35FB9A0275793D.tmp' to '../../../../../../Users/carla/Desktop/GitHub/FloorPlan/FloorPlanDemo2 4.22/Saved/Autosaves/Game/ScheduleMap/ThirdPersonExampleMap1_Auto2.umap'
+[2019.08.01-15.01.16:015][103]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ScheduleMap/ThirdPersonExampleMap1' took 0.945
+[2019.08.01-15.01.16:015][103]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.945
+[2019.08.01-15.01.35:715][308]LogActorFactory: Actor Factory created Cube
+[2019.08.01-15.01.37:550][478]LogActorFactory: Actor Factory created Cube
+[2019.08.01-15.01.40:319][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.01.46:035][ 91]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (34.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.08.01-15.01.57:552][950]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-15.02.12:431][393]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-15.02.21:072][135]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-15.02.25:404][472]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-15.02.42:079][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.03.08:893][191]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-15.03.33:808][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.03.52:149][131]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.01-15.04.00:357][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.01-15.04.06:056][510]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2019.08.01-15.04.08:433][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.04.17:550][555]Cmd: TRANSACTION UNDO
+[2019.08.01-15.04.17:550][555]LogEditorTransaction: Undo Move Actors
+[2019.08.01-15.04.18:033][581]Cmd: TRANSACTION UNDO
+[2019.08.01-15.04.18:033][581]LogEditorTransaction: Undo Move Actors
+[2019.08.01-15.04.24:600][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.08.01-15.04.28:340][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.01-15.04.38:228][447]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.08.01-15.04.42:776][824]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.08.01-15.08.40:237][147]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.08.01-15.10.45:956][291]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.01-15.10.51:614][291]LogStats: FPlatformStackWalk::StackWalkAndDump -  5.658 s
+[2019.08.01-15.10.51:614][291]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.01-15.10.51:614][291]LogOutputDevice: Error: 
+[2019.08.01-15.10.51:614][291]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 475]
+[2019.08.01-15.10.51:614][291]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'execute' on node 'Get All Actors with Tag' not reciprocally linked with pin 'then' on node 'Event BeginPlay'
+[2019.08.01-15.10.51:614][291]LogOutputDevice: Error: Stack: 
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffb86370f85 UE4Editor-Engine.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffb8530f0eb UE4Editor-Engine.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffb8530efa0 UE4Editor-Engine.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffb853b2f1e UE4Editor-Engine.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffbb9bb279a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffb8d995e8e UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffb8da1577f UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffbb1347fe8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffbb1323358 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffbb13a0501 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffbb138aaca UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffbb1380414 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffbec5fb8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffbec5eef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffbec5fd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffbec5ec090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffc2832ca66 USER32.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffc2832c582 USER32.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffbec5fe946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ff692505d3e UE4Editor.exe!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ff69251554c UE4Editor.exe!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ff6925155ca UE4Editor.exe!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ff69252316c UE4Editor.exe!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ff692525b8e UE4Editor.exe!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffc28d07974 KERNEL32.DLL!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: [Callstack] 0x00007ffc2a5ea271 ntdll.dll!UnknownFunction []
+[2019.08.01-15.10.51:615][291]LogOutputDevice: Error: 
+[2019.08.01-15.10.51:665][291]LogStats:                SubmitErrorReport -  0.000 s
